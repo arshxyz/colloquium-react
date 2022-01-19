@@ -1,61 +1,22 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import { NavBar } from "./Nav";
 
 class Header extends Component {
   render() {
-    if (!this.props.data) return null;
+    // if (!this.props.data) return null;
 
-    const project = this.props.data.project;
-    const github = this.props.data.github;
-    const name = this.props.data.name;
-    const description = this.props.data.description;
+    const project = "this.props.data.project";
+    const about = "this.props.data.about";
+    const name = "Debsoc NSUT";
+    const description = "Lorem Ipsum";
 
     return (
       <header id="home">
         <ParticlesBg type="circle" num={2} color="#ff0000" bg={true} />
 
-        <nav id="nav-wrap">
-          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
-            Show navigation
-          </a>
-          <a className="mobile-btn" href="#home" title="Hide navigation">
-            Hide navigation
-          </a>
-
-          <ul id="nav" className="nav">
-            <li className="current">
-              <a className="smoothscroll" href="#home">
-                Home
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#about">
-                About
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#resume">
-                Resume
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#portfolio">
-                Works
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#contact">
-                Contact
-              </a>
-            </li>
-          </ul>
-        </nav>
-
+        <NavBar/>
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
@@ -70,7 +31,7 @@ class Header extends Component {
                 <a href={project} className="button btn project-btn">
                   <i className="fa fa-trophy"></i>Our Achievements
                 </a>
-                <a href={github} className="button btn github-btn">
+                <a href={about} className="button btn about-btn">
                   <i className="fa fa-info-circle"></i>About us
                 </a>
               </ul>
