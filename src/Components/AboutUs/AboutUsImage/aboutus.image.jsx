@@ -3,7 +3,7 @@ import './aboutus.image.css';
 
 const Aboutimg=({link})=>(
     <div className='aboutus-img'>
-        <img src={link} alt="The Debating society of NSUT" />
+        <img className="about-img" src={link} alt="The Debating society of NSUT" />
     </div>
 )
 

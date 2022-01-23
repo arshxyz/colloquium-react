@@ -4,7 +4,7 @@
     padding:15px;
 }
 
-img
+.about-img
 {
     height:400px;
 	position: relative;
@@ -16,6 +16,6 @@ img
 	-o-transition: all 1s ease;
 	-webkit-transition: all 1s ease;
 }
-img:hover{
+.about-img:hover{
         transform: scale(1.25);
 }

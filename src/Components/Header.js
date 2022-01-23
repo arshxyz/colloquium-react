@@ -14,7 +14,7 @@ class Header extends Component {
     
     return (
       <header id="home">
-        <ParticlesBg type="circle" num={2} color="#ff0000" bg={true} />
+        {/* <ParticlesBg type="circle" num={2} color="#ff0000" bg={true} /> */}
 
         <NavBar/>
         <div className="row banner">
