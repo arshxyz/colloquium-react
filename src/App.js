@@ -4,7 +4,6 @@ import Header from "./Components/Header";
 import { NavBar } from "./Components/Nav";
 import { Route, Routes } from "react-router";
 import { OurTeam } from "./Components/OurTeam/OurTeam";
-import { Link } from "react-router-dom";
 import AboutUs from "./Components/AboutUs/AboutUsPage.jsx";
 
 export const Home = () => {

@@ -6,10 +6,10 @@ export const ABOUT_DATA=
     annual accolades not just in the North Indian debating circuits but 
     beyond the borders of India as well.`;
 
-export const OUR_WORK=
-`With an aim to promote healthy discussion and careful deliberation, the 
-Debating Society of NSUT provides people with a platform to shed their 
-inhibitions and learn the art of expressing themselves. One of the most 
-renowned debating societies in the DU circuit, it hosts literary and 
-debating events all throughout the year that help students gain confidence 
-` 
+// export const OUR_WORK=
+// `With an aim to promote healthy discussion and careful deliberation, the 
+// Debating Society of NSUT provides people with a platform to shed their 
+// inhibitions and learn the art of expressing themselves. One of the most 
+// renowned debating societies in the DU circuit, it hosts literary and 
+// debating events all throughout the year that help students gain confidence 
+// ` 
