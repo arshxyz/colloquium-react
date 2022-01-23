@@ -1,0 +1,15 @@
+.image{
+    height:35vw;
+    margin:10px;
+}
+.flex-container{
+    display: flex;
+    flex-direction:column;
+    margin:20px;
+    width:50vw;
+}
+.subtext{
+    width:50vw;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.sidetext{
+    font-size: medium;
+    font-weight: 75;
+    font-style: italic;
+    white-space: pre-line;
+}
+.subheading{
+    display:flex;
+    flex-direction: row;
+}

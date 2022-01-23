@@ -1,0 +1,13 @@
+.text{
+    display: flex;
+    padding: 5px;
+}
+
+p { 
+    color: white; 
+    font-size: 18px; 
+    line-height: 32px; 
+    margin: 0 0 24px; 
+    text-align: justify;
+}
+

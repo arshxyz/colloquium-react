@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import {Link} from 'react-router-dom';
 import { NavBar } from "./Nav";
 
 class Header extends Component {
@@ -8,10 +9,9 @@ class Header extends Component {
     // if (!this.props.data) return null;
 
     const project = "this.props.data.project";
-    const about = "this.props.data.about";
     const name = "Debsoc NSUT";
     const description = "Lorem Ipsum";
-
+    
     return (
       <header id="home">
         <ParticlesBg type="circle" num={2} color="#ff0000" bg={true} />
@@ -31,9 +31,9 @@ class Header extends Component {
                 <a href={project} className="button btn project-btn">
                   <i className="fa fa-trophy"></i>Our Achievements
                 </a>
-                <a href={about} className="button btn about-btn">
+                <Link to ="/about" className="button btn about-btn">
                   <i className="fa fa-info-circle"></i>About us
-                </a>
+                </Link>
               </ul>
             </Fade>
           </div>
