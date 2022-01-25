@@ -65,7 +65,7 @@ export const OurTeam = () => {
                             fdfd
                         </Grid>
                     </Grid>
-                    <Grid item container xs={6} md={3} justifyContent={"center"}>
+                    <Grid item container xs={12} md={3} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
                         <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
                         className="facepic" 

@@ -5,6 +5,7 @@ import { NavBar } from "./Components/Nav";
 import { Route, Routes } from "react-router";
 import { OurTeam } from "./Components/OurTeam/OurTeam";
 import AboutUs from "./Components/AboutUs/AboutUsPage.jsx";
+import { Department } from "./Components/Departments/Department";
 
 export const Home = () => {
   return (
@@ -21,6 +22,7 @@ export const App = () => {
       <Route path="/" element={<Home/>}/>
       <Route path="ourteam" element={<OurTeam/>}/>
       <Route path ="about" element={<AboutUs/>} />
+      <Route path ="pd" element={<Department/>} />
     </Routes>
   )
 }

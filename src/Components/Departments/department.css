@@ -1,0 +1,66 @@
+#departmentBg {
+    background-image: url("dep.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh !important;
+}
+.dep-byline {
+    font-size: 28px !important;
+    font-weight: 900 !important;
+    font-family: 'Kanit' !important;
+}
+
+.mainContent {
+    background-color: white;
+    color: black;
+}
+
+.dep-subheading {
+    font-size: 32px;
+    margin: 1em;
+    font-weight: 600;
+    color: #212121;
+    font-family: 'Poppins';
+}
+.dep-intro {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: rgb(63, 63, 63);
+}
+.achievements {
+    padding: 5em 5em 0 5rem;
+}
+.achievement-topic{
+    margin-top: 1em;
+}
+
+.achievements-title{
+    font-size: 30px;
+    font-family: 'Poppins';
+}
+.achievement-text {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: rgb(63, 63, 63);
+    margin: 1em 0 1em 0 !important;
+}
+
+.facepic {
+    min-width: 250px;
+    min-height: 250px;
+}
+
+@media screen and (max-width: 600px) {
+    #departmentBg {
+        height: 50vh !important;
+    }
+    .achievements {
+        padding: 20px;
+    }
+    .facepic {
+        width: 150px;
+        height: 150px;
+    }
+  }

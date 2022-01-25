@@ -5,7 +5,7 @@ import AboutUsButton from '../AboutUsButton/AboutUsButton';
 
 const AboutusText=()=>(
     <div className='text'>
-        <p>{ABOUT_DATA}</p>
+        <p className='aboutText'>{ABOUT_DATA}</p>
     </div>
 )
 
