@@ -1,0 +1,32 @@
+.cover{
+    height: 600px;
+    margin-bottom: 10px;
+    width:100%;
+}
+.content{
+    margin: 30px;
+}
+.logo{
+    float:right;
+    width:25%;
+    margin-right: 5%;
+}
+.who{
+    width:60%;
+}
+.who h1{
+    color: white;
+    font-size: 50px;
+}
+.who p{
+    font-size: 18px;
+}
+.our
+{
+    margin:30px;
+}
+.our h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
