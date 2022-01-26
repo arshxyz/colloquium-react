@@ -28,6 +28,9 @@ export const NavBar = () => {
         <li>
         <Link to="/pd">PD</Link>
         </li>
+        <li>
+        <Link to="/mun">MUN</Link>
+        </li>
         </ul>
     </nav>
     )

@@ -3,7 +3,7 @@ import { NavBar } from "../Nav"
 import "./department.css"
 import {Grid, Divider} from "@mui/material"
 
-export const Department = () => {
+export const PDDepartment = () => {
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [{title: "fdjsflddsa", text: lorem}, {title: "Fdjklasf", text:lorem}, {title: "Fdjklasf", text:lorem}]
     return (
