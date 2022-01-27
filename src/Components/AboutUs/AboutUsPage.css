@@ -1,15 +1,32 @@
-.image{
-    height:35vw;
-    margin:10px;
+.cover{
+    height: 600px;
+    margin-bottom: 10px;
+    width:100%;
 }
-.flex-container{
-    display: flex;
-    flex-direction:column;
-    margin:20px;
-    width:50vw;
+.content{
+    margin: 30px;
 }
-.subtext{
-    width:50vw;
-    display: flex;
-    flex-direction: column;
+.logo{
+    float:right;
+    width:25%;
+    margin-right: 5%;
+}
+.who{
+    width:60%;
+}
+.who h1{
+    color: white;
+    font-size: 50px;
+}
+.who p{
+    font-size: 18px;
+}
+.our
+{
+    margin:30px;
+}
+.our h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
 }
