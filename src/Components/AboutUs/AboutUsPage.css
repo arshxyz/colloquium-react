@@ -1,10 +1,11 @@
 .cover{
-    height: 600px;
+    height: 40vw;
     margin-bottom: 10px;
     width:100%;
+    border-radius: 2%;
 }
 .content{
-    margin: 30px;
+    margin: 5%;
 }
 .logo{
     float:right;
@@ -16,10 +17,10 @@
 }
 .who h1{
     color: white;
-    font-size: 50px;
+    font-size: 5rem;
 }
 .who p{
-    font-size: 18px;
+    font-size: 2rem;
 }
 .our
 {
@@ -28,5 +29,5 @@
 .our h1{
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 5rem;
 }

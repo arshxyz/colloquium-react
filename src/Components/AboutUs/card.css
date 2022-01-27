@@ -15,13 +15,21 @@
     cursor: pointer;
 }
 
-.profile-card-4 img {
+.img {
     height:250px;
     width:250px;
     border-radius: 50%;
     transition: all 0.25s linear;
+    margin-left: 18%;
 }
-
+@media only screen and (max-width:767px)
+{
+    .img{
+        margin-left: 0%;
+        height:150px;
+        width:150px;
+    }
+}
 .profile-card-4 .profile-content {
     position: relative;
     padding: 15px;
@@ -29,17 +37,18 @@
     background-color: rgb(201, 199, 199);
 }
 
-.profile-card-4 .profile-name {
+.name {
     font-weight: bold;
     color: #FFF;
     font-size: 17px;
 }
 
-.profile-card-4 .position {
+.position {
     font-weight: 600;
     font-size: 16px;
     letter-spacing: 1.5px;
-    color:black
+    color:white;
+    text-align: center;
 }
 .position p{
     margin:0px;
