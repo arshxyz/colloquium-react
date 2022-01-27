@@ -1,4 +1,4 @@
-import arjun from './Photos/Arjun.jpeg';
+import arjun from './Photos/Arjun.jpg';
 import rahul from './Photos/Rahul.jpg';
 import kanav from './Photos/Kanav.jpg';
 import ananya from './Photos/Ananya.jpg';
