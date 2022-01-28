@@ -12,7 +12,7 @@ export const NavBar = () => {
 
         <ul id="nav" className="nav">
 
-        <li style={{float: 'left', fontSize: '1.5rem', textTransform: 'capitalize'}}>
+        <li style={{float: 'left', fontSize: '1.5rem', }}>
         <Link to="/">DebSoc<span style={{color: '#c3152c'}}>.</span></Link>
         </li>
 
