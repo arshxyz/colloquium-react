@@ -2,7 +2,7 @@ import React, {useEffect} from "react"
 import { Fade } from "react-reveal"
 import { NavBar } from "../Nav"
 import "./department.css"
-import {Grid, Divider} from "@mui/material"
+import {Grid, Divider, Avatar} from "@mui/material"
 
 export const PDDepartment = () => {
 
@@ -69,11 +69,11 @@ export const PDDepartment = () => {
           </Grid>
           </Grid>
           <Grid item xs={12} container justifyContent={"center"}>
-          {/* <h2 className="dep-subheading">Meet our team</h2>
+          <h2 className="dep-subheading">Meet our team</h2>
           <Grid item container justifyContent={"center"}>
           <Grid item container xs={6} md={3} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
-                        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                        <Avatar src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
                         className="facepic" 
                         alt="face"
                             />
@@ -82,7 +82,7 @@ export const PDDepartment = () => {
                             fdfd
                         </Grid>
                     </Grid>
-          </Grid> */}
+          </Grid>
           </Grid>
       </Grid>
 

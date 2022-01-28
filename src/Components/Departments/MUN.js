@@ -71,7 +71,7 @@ export const MUNDepartment = () => {
           </Grid>
           </Grid>
           <Grid item xs={12} container justifyContent={"center"}>
-          {/* <h2 className="dep-subheading">Meet our team</h2>
+          <h2 className="dep-subheading">Meet our team</h2>
           <Grid item container justifyContent={"center"}>
           <Grid item container xs={6} md={3} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
@@ -84,7 +84,7 @@ export const MUNDepartment = () => {
                             fdfd
                         </Grid>
                     </Grid>
-          </Grid> */}
+          </Grid>
           </Grid>
       </Grid>
 
