@@ -9,7 +9,6 @@ function AboutUsContent(){
         <h1>Who Are We ?</h1>
         </Fade>
 
-        <br></br>
         <Fade bottom>
         <p>
             Founded in 2008, the Debating Society of NSUT is the premier debating 
