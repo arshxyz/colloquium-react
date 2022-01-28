@@ -478,7 +478,6 @@ img {
   display: inline-block;
   vertical-align: middle;
   max-width: 100%;
-  margin: 0 40px;
   height: auto;
   -ms-interpolation-mode: bicubic; }
 
@@ -2379,8 +2378,7 @@ select {
 }
 .events-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.4375rem;
-  font-weight: 700;
+  font-size: 2.5em;
   text-align: center;
   color: rgb(195, 21, 44);
 }
@@ -2464,7 +2462,7 @@ select {
   font-size: 1.1vw;
   position: relative;
   max-width: 100%;
-  margin-left: -61%;
+  margin-left: -45%;
   padding: 15px;
   font-family: 'Montserrat', sans-serif !important; 
   cursor: pointer;
