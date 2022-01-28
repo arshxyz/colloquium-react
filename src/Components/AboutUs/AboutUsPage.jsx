@@ -9,7 +9,7 @@ import OurTeam from './ourTeam/ourTeam';
 
 function AboutUs() {
     return (
-        <div >
+        <div className='bg'>
             <NavBar />
             <img alt="hi" src={cover} className='cover'></img>
             <div className='content'>
@@ -21,6 +21,7 @@ function AboutUs() {
             <div className='Team'>
                 <div className='our'>
                     <h1>Meet The Team </h1>
+                    <br></br>
                 </div>
                 <OurTeam></OurTeam>
             </div>
