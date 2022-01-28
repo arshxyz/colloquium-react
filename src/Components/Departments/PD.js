@@ -84,6 +84,7 @@ export const PDDepartment = () => {
                         <Avatar src={member.img}
                         className="facepic" 
                         alt="face"
+                        classes={{"img": "facepic"}}
                             />
                             </Grid>
                         </Grid>
