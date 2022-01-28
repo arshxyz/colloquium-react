@@ -49,8 +49,22 @@
 }
 
 .facepic {
-    min-width: 250px;
-    min-height: 250px;
+    min-width: 10em;
+    min-height: 10em;
+}
+
+.memName {
+    margin-top: 1em !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+.memDesignation {
+    margin-top: 0.5em !important;
+    font-size: 18px;
+}
+
+.memberContainer {
+    margin-top: 1em !important;
 }
 
 @media screen and (max-width: 600px) {

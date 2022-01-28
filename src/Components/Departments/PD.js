@@ -9,13 +9,18 @@ export const PDDepartment = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
+  const members = [
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+  ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
     {title: "10 Team breaks", text: "A plethora of Breaks at prestigious tourneys including DTU PD, Axiom, Rahat and Pearl among others"},
     {title: "9 Adjudication breaks", text: "Content goes here"},
-    {title: "International breaks", text:"Content goes here"},
-    {title: "Fdjklasf", text:"Content goes here"}
     ]
     return (
         <>
@@ -71,17 +76,24 @@ export const PDDepartment = () => {
           <Grid item xs={12} container justifyContent={"center"}>
           <h2 className="dep-subheading">Meet our team</h2>
           <Grid item container justifyContent={"center"}>
-          <Grid item container xs={6} md={3} justifyContent={"center"}>
+            {members.map((member) => (
+          <Grid item className="memberContainer" container xs={6} md={4} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
-                        <Avatar src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                          <Grid item container xs={12} justifyContent={"center"}>
+                        <Avatar src={member.img}
                         className="facepic" 
                         alt="face"
                             />
+                            </Grid>
                         </Grid>
-                        <Grid item container justifyContent={"center"}>
-                            fdfd
+                        <Grid item container className={"memName"} justifyContent={"center"}>
+                            {member.name}
+                        </Grid>
+                        <Grid item container className={"memDesignation"} justifyContent={"center"}>
+                            {member.desig}
                         </Grid>
                     </Grid>
+            ))}
           </Grid>
           </Grid>
       </Grid>

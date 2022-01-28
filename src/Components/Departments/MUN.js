@@ -2,14 +2,16 @@ import React, {useEffect} from "react"
 import { Fade } from "react-reveal"
 import { NavBar } from "../Nav"
 import "./department.css"
-import {Grid, Divider} from "@mui/material"
+import {Grid, Divider, Avatar} from "@mui/material"
 
 export const MUNDepartment = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
-
+    const members = [
+      {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"}
+    ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
     {title: "45 Awards", text: "Content"},
@@ -73,22 +75,27 @@ export const MUNDepartment = () => {
           <Grid item xs={12} container justifyContent={"center"}>
           <h2 className="dep-subheading">Meet our team</h2>
           <Grid item container justifyContent={"center"}>
-          <Grid item container xs={6} md={3} justifyContent={"center"}>
+            {members.map((member) => (
+          <Grid item className="memberContainer" container xs={6} md={4} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
-                        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                          <Grid item container xs={12} justifyContent={"center"}>
+                        <Avatar src={member.img}
                         className="facepic" 
                         alt="face"
                             />
+                            </Grid>
                         </Grid>
-                        <Grid item container justifyContent={"center"}>
-                            fdfd
+                        <Grid item container className={"memName"} justifyContent={"center"}>
+                            {member.name}
+                        </Grid>
+                        <Grid item container className={"memDesignation"} justifyContent={"center"}>
+                            {member.desig}
                         </Grid>
                     </Grid>
+            ))}
           </Grid>
           </Grid>
       </Grid>
-
-
       </>
     )
 }
