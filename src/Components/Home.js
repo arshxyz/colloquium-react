@@ -127,7 +127,7 @@ function Home(){
                                 in all aspects of life. <br/>With days spent debating, and nights spent reminiscing on those memories and making 
                                 new ones, DebSoc is truly the most wholesome society I’ve had an opportunity to be a part of.</p>
                             <span>Arjun Singh</span><br/>
-                            <small>President, DebSoc</small>
+                            <small style={{color:'rgb(195, 21, 44)'}}>President, DebSoc</small>
                             </div>
                         </div>
                     </div>
@@ -136,16 +136,16 @@ function Home(){
                     <div className="user-frame" style={{textAlign: 'center'}}>
                       <div className="container-fluid px-0">
                     <img src="./images/team/Rahul.jpg" className="presidents" style={{display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
-                    <h3>A place to learn and grow</h3>
-       <p>Being one of the most active and thriving societies across the debating circuit, DebSoc NSUT is a stranger to none. Whether it be 
-       winning countless accolades every year or organizing Delhi’s largest debating and literary festival, we really are able to do it all. 
-       DebSoc isn’t just a society for us, it is also an experience filled with sleepless nights and rewarding days. It is home to days of 
-       debates and discussions spread over the sprawling campus, through which our enforced camaraderie turned into a happy family. Being a 
-       part of The Debating Society of NSUT has truly been a life changing journey and I hope the society continues to live upto its glorious 
-       legacy for years to come.</p>
+                    <h3>A Revolutionary Journey</h3>
+       <p>DebSoc NSUT is the breath of fresh air that you need in a world 
+         masqueraded by an obsession over numbers and algorithms. I can tr
+         uly say that your journey with DebSoc would revolutionise your perso
+         nality and change your perspective towards things for the good.<br/> DebSoc has
+          given me a community with whom I’ll 
+         share a bond for the rest of my life and countless memories that will always be embedded in my heart.</p>
                             
                         <span>Rahul Sharma</span><br/>
-                        <small>President, DebSoc</small>
+                        <small style={{color:'rgb(195, 21, 44)'}}>President, DebSoc</small>
                     </div>
                     </div>
                 </div>
@@ -159,7 +159,7 @@ function Home(){
                         <h2 style={{textAlign: "center", marginTop:'40px'}}>The HNMUN Experience</h2>
                     </div>
                 </div>
-                <div className="row">
+                <div className="row" style={{textAlign:'center'}}>
                     <div className="col-md-6 animate-box">
                         <div className="user-frame">
                             <div className="container-fluid px-0">
@@ -175,10 +175,10 @@ function Home(){
                                 of four months of rigorous training to 4 successful days of conference, being a part of the “Indian Delegation”
                                  and holding the Indian flag with pride was definitely a once-in-a-lifetime experience.</p>
                             <span>Sanskriti Kocher</span><br/>
-                            <small>MUN Team, DebSoc</small>
+                            <small style={{color:'rgb(195, 21, 44)'}}>MUN Team, DebSoc</small>
                         </div>
                     </div>
-                    <div className="col-md-6 animate-box">
+                    <div className="col-md-6 animate-box" style={{textAlign:'center'}}>
                         <div className="user-frame">
                             <div class="container-fluid px-0">
                                 <img src="./images/team/Pawan-HN.jpg" class="presidents" alt="..."/>
@@ -187,7 +187,7 @@ function Home(){
                             <p style={{textAlign: 'center'}}>My HNMUN journey is something that I probably will draw satisfaction from, for a very long time. I found people I spent close to four months together with, and was pretty much forced to fall in love with. They are people I have memories with that I’ll cherish for a very long time. And yet right now, I find it extremely hard to put my feelings down in plain words, if any.<br/>
                                 Although the entire journey has probably been the most physically, and academically taxing experience of my entire life, the grandeur of the moment as one stands before people from literally all over the world, a proud winner from India, is unparalleled.</p>
                             <span>Pawan Singh</span><br/>
-                            <small>MUN Team, DebSoc</small>
+                            <small style={{color:'rgb(195, 21, 44)'}}>MUN Team, DebSoc</small>
                         </div>
                     </div>
                 </div>
