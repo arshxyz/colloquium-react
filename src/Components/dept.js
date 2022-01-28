@@ -5,8 +5,8 @@ function dept(){
         <div>
             <section class="dept-section" id="wb3">
 
-<h1 class="events-title accent-text" style={{textAlign: 'center', color: 'white'}}>
-  <span class="stroke-text-white" >Our </span>Departments
+<h1 class="events-title accent-text" style={{textAlign: 'center', }}>
+  <span class="stroke-text-white" style={{color: 'white'}} >Our </span>Departments
 </h1>
 <div class="event-card-wrapper">
   <div class="event-card">
@@ -21,6 +21,7 @@ function dept(){
       key essentials of it.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -43,6 +44,7 @@ function dept(){
        alike, voicing your opinions, moulding and adapting ideas, analyzing, strategizing and optimizing the solutions to problems.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -60,6 +62,7 @@ function dept(){
       events like Thursdays At DebSoc, we train willing debaters and give 
       them a chance to try out new formats of debating each week to hone their skills.</p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -85,6 +88,7 @@ function dept(){
 
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -101,12 +105,13 @@ function dept(){
        one of the most efficient departments under Debsoc.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
     <div class="event-img-wrapper">
       <img
-        src="./images/dept/pd_card.png"
+        src="./images/dept/td_card.png"
         alt="event" class="event-image startupcombat" />
     </div>
   </div>

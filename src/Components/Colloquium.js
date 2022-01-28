@@ -66,7 +66,7 @@ function Colloquium(){
                 <div className="container">
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-6">
-                            <h1 className="intro-title" style={{color: '#c3152c'}}>ABOUT THE EVENT</h1>
+                            {/* <h1 className="intro-title" style={{color: '#c3152c'}}>ABOUT THE EVENT</h1> */}
                             <p className="intro-desc" style={{color: '#f8f8f8', width: '85%'}}>The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
 Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- Colloquium.<br/>
 Despite all restrictions that prevail, this edition of Colloquium promises to be as great as it has been in the past, adding more to the legacy it already has. 

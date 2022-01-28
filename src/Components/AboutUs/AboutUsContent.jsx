@@ -4,13 +4,13 @@ import { Fade } from "react-reveal"
 
 function AboutUsContent(){
     return(
-    <div className='who'>
+    <div className='who' >
         <Fade bottom>
         <h1 style={{textTransform: 'capitalize'}}>Who are we ?</h1>
         </Fade>
 
         <Fade bottom>
-        <p>
+        <p className='p1' >
             Founded in 2008, the Debating Society of NSUT is the premier debating 
             and literary society on campus for one of India's most prestigious and 
             coveted technical institutions, Netaji Subhas University of Technology 
@@ -20,7 +20,7 @@ function AboutUsContent(){
         </p>
         </Fade>
         <Fade bottom>
-        <p>
+        <p className='p1'>
             With an aim to promote healthy discussion and careful deliberation, the 
             Debating Society of NSUT provides people with a platform to shed their 
             inhibitions and learn the art of expressing themselves. One of the most 

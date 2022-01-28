@@ -482,6 +482,10 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
 
+  .event-info p{
+    margin-top: 0;
+  }
+
 textarea {
   height: auto;
   min-height: 50px;
