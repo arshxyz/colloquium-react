@@ -11,6 +11,11 @@ export const NavBar = () => {
         </a>
 
         <ul id="nav" className="nav">
+
+        <li style={{float: 'left', fontSize: '1.5rem', textTransform: 'capitalize'}}>
+        <Link to="/">DebSoc<span style={{color: '#c3152c'}}>.</span></Link>
+        </li>
+
         <li>
         <Link to="/">Home</Link>
         </li>
