@@ -2442,7 +2442,7 @@ select {
   color: #fff;
 }
 
-.button {
+.button1 {
   background-image: -webkit-linear-gradient(106deg, #E5474B 50%, #c43d40 50%);
   background-image: linear-gradient(-16deg, #E5474B 50%, #c43d40 50%);
   display: inline-block;
@@ -2452,13 +2452,14 @@ select {
   font-size: 1.3vw;
   position: relative;
   max-width: 100%;
-  margin-left: -7%;
-  font-family: 'Montserrat', sans-serif; 
+  margin-left: -55%;
+  padding: 15px;
+  font-family: 'Montserrat', sans-serif !important; 
   cursor: pointer;
   border-radius: 10px;
 
 }
-.button:after {
+.button1:after {
   content: "";
   background: #fff;
   height: 1px;
@@ -2473,10 +2474,10 @@ select {
   -ms-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
 }
-.button:hover {
+.button1:hover {
   color: #fff;
 }
-.button:hover:after {
+.button1:hover:after {
   width: 70%;
   left: 15%;
   transition: all 0.3s ease-out;
@@ -2494,7 +2495,7 @@ select {
   .event-card {
     padding: 0 2em;
   }
-  .button{
+  .button1{
     margin-left: 3%;
   }
 }
@@ -2507,7 +2508,7 @@ select {
     font-size: 19px;
   }
 
-  .button{
+  .button1{
     margin-left: 3%;
   }
   .events-section::before,

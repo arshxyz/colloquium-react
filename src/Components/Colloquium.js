@@ -9,6 +9,10 @@ function Colloquium(){
         loadjs('./js/custom.js');
       }, []);
 
+      useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
+
     return(
         <>
         <NavBar />
@@ -51,7 +55,7 @@ function Colloquium(){
         <div id="main-slide">
                         
                        <div className="carousel-inner">
-                <div className="item active" style={{backgroundImage: 'url(images/hero-area/Colloquium.png)', zIndex: 1}} id="wb1">
+                <div className="item active" style={{backgroundImage: 'url(images/hero-area/Colloquium_m.png)', zIndex: 1}} id="wb1">
     
                 </div>
             </div>
@@ -240,14 +244,14 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       <h2 class="event-title accent-text">NSMPD</h2>
       <p class="event-tagline"><b>The case study competition</b></p>
       <p class="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      One of the most reputed Parliamentary Debating
+                                                                Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
+                                                                participants, NSMPD witnesses the best of Delhi Circuit debating upon a
+                                                                plethora of topics, the debate is a beautiful profusion of rationale,
+                                                                logic and public speaking.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
     <div class="event-img-wrapper">
@@ -263,14 +267,10 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       <h2 class="event-title accent-text">NSUTMUN</h2>
       <p class="event-tagline"><b>The case study competition</b></p>
       <p class="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
   </div>
@@ -280,14 +280,13 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       <h2 class="event-title accent-text">In Case You Can</h2>
       <p class="event-tagline"><b>The case study competition</b></p>
       <p class="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      This Case Study Competition allows for participants to
+                                                                deliberate and analyse rigorously selected Cases, which tickle the
+                                                                entrepreneurial mind and tests your business acumen. Participants require the
+                                                                correct blend of logic, rigour and academic brilliance to ace the competition.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
     <div class="event-img-wrapper">
@@ -314,7 +313,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
 
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
   </div>
@@ -331,7 +330,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
     <div class="event-img-wrapper">
@@ -358,7 +357,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
   </div>
@@ -374,7 +373,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>    <div class="event-img-wrapper">
       <img
@@ -399,7 +398,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button a" href="index.html">Register</a>
+  <a class="button1 a" href="index.html">Register</a>
                        </div>
     </div>
   </div>
@@ -417,24 +416,24 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                             <div className="columns large-12 text-center"><br/><br/>
                                 <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                     <div className="hvr-outline-out">
-                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/IASAcademy.jpg"/>
+                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/frapp.jpg"/>
                     </div>
                                     </div>
                                     <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                         <div className="hvr-outline-out">
-                                             <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/times.jpg"/>
+                                             <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/freestand.png"/>
 
                     </div>
                                         </div>
                                         <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                             <div className="hvr-outline-out">
-                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/PEOPLEISTINDIA.png"/>
+                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/duexp.png"/>
 
                     </div>
                                             </div>
                                             <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                 <div className="hvr-outline-out">
-                                                     <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/DIGITALVIDYA.png"/>
+                                                     <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/jk.png"/>
 
                     </div>
                                                 </div>
@@ -442,24 +441,24 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                             <div className="columns large-12 text-center"><br/>
                                                 <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                     <div className="hvr-outline-out">
-                                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/nextech.jpg"/>
+                                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/ntt.jpeg"/>
             </div>
                                                     </div>
                                                     <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                         <div className="hvr-outline-out">
-                                                             <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/souledstore.png"/>
+                                                             <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/ongc.png"/>
 
             </div>
                                                         </div>
                                                         <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                             <div className="hvr-outline-out">
-                                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/faadlogo.png"/>
+                                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/princeton.jpeg"/>
 
             </div>
                                                             </div>
                                                             <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                                 <div className="hvr-outline-out">
-                                                                     <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/stayuncle.png"/>
+                                                                     <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/theedutree.png"/>
 
             </div>
                                                                 </div>
@@ -467,18 +466,13 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                                             <div className="columns large-12 text-center"><br/><br/>
                                                                 <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                                     <div className="hvr-outline-out">
-                                                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/HIDDENROOMS.jpg"/>
+                                                                         <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponsor/twenty19.jpg"/>
     </div>
                                                                     </div>
-                                                                    <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
-                                                                        <div className="hvr-outline-out">
-                                                                             <img alt="" height="150px" width="150px" style={{transition: '0.3s ease'}} className="lazy" src="./images/sponser/DHIRATI.png"/>
 
-    </div>
-                                                                        </div>
                                                                         <div style={{marginBottom: 50}} className="hover_item columns small-6 medium-4 large-3">
                                                                             <div className="hvr-outline-out">
-                                                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease' }} className="lazy" src="./images/sponser/download.png"/>
+                                                                                 <img alt="" height="150px" width="150px" style={{transition: '0.3s ease' }} className="lazy" src="./images/sponsor/dubeat.png"/>
 
     </div>
                                                                             </div>
@@ -496,8 +490,8 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                     <div className="row">
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery2.jpg">
-                             <img alt="" className="img-responsive" src="images/gallery/gallery2.jpg" />
+                                <a className="gallery-popup" href="images/gallery/gallery1.jpg">
+                             <img alt="" className="img-responsive" src="images/gallery/gallery1.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search" ></i></span>
                         </a>
                             </div>
@@ -512,8 +506,8 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery6.jpg">
-                             <img alt="" className="img-responsive" src="images/gallery/gallery6.jpg" />
+                                <a className="gallery-popup" href="images/gallery/gallery3.jpg">
+                             <img alt="" className="img-responsive" src="images/gallery/gallery3.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
                             </div>
@@ -554,7 +548,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
           
           
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Arjun.jpg" className="port"/>
 
   <div className="overlay">
     <h1 className="text">Arjun </h1>
@@ -574,7 +568,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   
           
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Pragati.jpeg" className="port"/>
     
   <div className="overlay">
     <h1 className="text">Pragati </h1>
@@ -594,7 +588,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
           
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Nandni.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Nandni</h1>
@@ -615,7 +609,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
          
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Kartikeya.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Kartikeya</h1>
@@ -636,7 +630,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
           
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Anav.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Anav</h1>
@@ -657,7 +651,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
           
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Ananya.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Ananya </h1>
@@ -699,7 +693,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Sai.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Sai</h1>
@@ -720,7 +714,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
           
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Avil.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Avil</h1>
@@ -741,7 +735,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Rahul.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Rahul</h1>
@@ -762,7 +756,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Yajas.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Yajas</h1>
@@ -783,7 +777,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Kanav.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Kanav</h1>
@@ -804,7 +798,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
            
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Aditi.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Aditi</h1>
@@ -825,7 +819,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg"className="port"/>
+     <img alt="" src="images/team/Pranay.jpg"className="port"/>
 
 <div className="overlay">
     <h1 className="text">Pranay</h1>

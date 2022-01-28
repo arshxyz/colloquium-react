@@ -11,7 +11,7 @@ export const NavBar = () => {
         </a>
 
         <ul id="nav" className="nav">
-        <li className="current">
+        <li>
         <Link to="/">Home</Link>
         </li>
 
