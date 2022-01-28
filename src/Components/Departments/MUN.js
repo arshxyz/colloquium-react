@@ -3,6 +3,7 @@ import { Fade } from "react-reveal"
 import { NavBar } from "../Nav"
 import "./department.css"
 import {Grid, Divider, Avatar} from "@mui/material"
+import { Footer } from "../Footer"
 
 export const MUNDepartment = () => {
 
@@ -15,9 +16,7 @@ export const MUNDepartment = () => {
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
     {title: "57 Individual Awards", text: "Content"},
-    {title: "Stockholm MUN'21", text: "Content goes here"},
     {title: "3 Best Delegations", text:"Content goes here"},
-    {title: "NSUTMUN'22", text:"Content goes here"}
     ]
     return (
         <>
@@ -57,7 +56,7 @@ export const MUNDepartment = () => {
         <Grid item xs={12} container spacing={4} className="achievements" justifyContent={"center"}>
         
           <Grid item container justifyContent={"center"} xs={12} md={8} className="dep-leftpane">
-            <div className="achievements-title">Our Achievements 2021-22 🏆</div>
+            <div className="achievements-title">Our Achievements </div>
             <Grid item container xs={12}  justifyContent={"center"} alignItems={"flex-start"}>
             {achievements.map((item) => (
               <Grid item container xs={12} md={6} justifyContent={"center"}>
@@ -73,7 +72,7 @@ export const MUNDepartment = () => {
           </Grid>
           </Grid>
           <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Meet our team</h2>
+          <h2 className="dep-subheading">MUN Team</h2>
           <Grid item container justifyContent={"center"}>
             {members.map((member) => (
           <Grid item className="memberContainer" container xs={6} md={4} justifyContent={"center"}>
@@ -96,6 +95,7 @@ export const MUNDepartment = () => {
           </Grid>
           </Grid>
       </Grid>
+      <Footer/>
       </>
     )
 }
