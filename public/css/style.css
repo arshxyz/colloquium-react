@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #1c1c24;
+    
     font-family: 'Roboto', sans-serif;
 }
 h1 {
@@ -993,7 +993,7 @@ ul.navbar-nav > li:hover > a{
 /*-- Main slide --*/
 
 #main-slide .item {
-    min-height: 600px;
+    min-height: 700px;
     color: #fff;
   background-repeat: no-repeat;
 background-size: 100% 104%;
