@@ -66,7 +66,7 @@ function Colloquium(){
                 <div className="container">
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-6">
-                            <h1 className="intro-title txt" style={{color: '#c3152c'}}>ABOUT THE EVENT</h1>
+                            <h1 className="intro-title" style={{color: '#c3152c'}}>ABOUT THE EVENT</h1>
                             <p className="intro-desc" style={{color: '#f8f8f8', width: '85%'}}>The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
 Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- Colloquium.<br/>
 Despite all restrictions that prevail, this edition of Colloquium promises to be as great as it has been in the past, adding more to the legacy it already has. 
@@ -90,7 +90,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <div className="col-md-12 col-sm-10 col-xs-12">
                                         <div className="">
                                             <div className="video-container">
-                                               <img src="images/hero-area/Colloquium.png" alt="" />
+                                               <img src="images/hero-area/Colloq.jpeg" alt="" />
                                             </div>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                 <div className="container">
                     <div className="row text-center">
                         <h1 className="section-sub-title">Colloquium 2022</h1>
-                        <p className="intro-desc">The wait will be over in ...</p>
+                        <p className="intro-desc" style={{color: '#c3152c'}}>The wait will be over in ...</p>
                     </div>
                     <div className="gap-40"></div>
                     <div className="row">
@@ -238,6 +238,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
 <h1 class="events-title accent-text" style={{textAlign: 'center'}}>
   <span class="stroke-text-white" style={{color: 'white'}}>Explore </span>Events
 </h1>
+<br/><br/><br/>
 <div class="event-card-wrapper">
   <div class="event-card">
   <div class="event-info">
@@ -302,7 +303,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         alt="event" class="event-image unravel" />
     </div>
     <div class="event-info">
-      <h2 class="event-title accent-text">IP</h2>
+      <h2 class="event-title accent-text">International Press</h2>
       <p class="event-tagline"><b>The case study competition</b></p>
       <p class="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -558,9 +559,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -577,9 +578,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -598,9 +599,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -619,9 +620,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -640,9 +641,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -661,9 +662,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -672,7 +673,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/vriti.jpg" className="port"/>
+     <img alt="" src="images/team/Shrirang.jpg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Shrirang </h1>
@@ -682,9 +683,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -703,9 +704,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -724,9 +725,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -745,9 +746,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -766,9 +767,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -787,9 +788,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -808,9 +809,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -829,9 +830,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
       <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -909,7 +910,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
                                         <h4>Email: </h4>
-                                        <p>debsocnsit@gmail.com</p>
+                                        <p>debsocnsut@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -919,7 +920,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                 <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                                 <div className="contact-info-box-content">
                                     <h4>Phone: </h4>
-                                    <p>Anyone any : 91-9800000000</p>
+                                    <p>Arjun Singh : +91-8979254865</p>
                                 </div>
                             </div>
                         </div>
@@ -931,9 +932,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                     <div className="col-md-12">
                             <div id="contact-social" className="footer-social">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ColloquiumNSUT"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                             <div className="copyright-info">

@@ -3,7 +3,7 @@ import './ourTeam.css';
 import team from '../teamdata'; 
 import Card from '../Card';
 
-const OurTeam=()=>(
+const OurTeam=()=>(    
     <div className="team-body">
         {team.map(({name,position,testimonial,imageUrl})=><Card 
             name={name}
