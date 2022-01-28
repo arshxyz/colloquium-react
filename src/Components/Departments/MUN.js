@@ -3,6 +3,7 @@ import { Fade } from "react-reveal"
 import { NavBar } from "../Nav"
 import "./department.css"
 import {Grid, Divider, Avatar} from "@mui/material"
+import { Footer } from "../Footer"
 
 export const MUNDepartment = () => {
 
@@ -94,6 +95,7 @@ export const MUNDepartment = () => {
           </Grid>
           </Grid>
       </Grid>
+      <Footer/>
       </>
     )
 }
