@@ -32,7 +32,65 @@ function AboutUs() {
                 </div>
                 <OurTeam/>
             </div>
-            <footer />
+            <footer id="wb7" className="footer">
+
+        <div className="container">
+                    <div className=" text-center">
+                        <h2 className="section-title" style={{color:'#c3152c'}}>Where to find us</h2>
+                    </div>
+                    <br/><br/><br/>
+                    <div className="row">
+                        <div className="col-md-4">
+                            <div className="contact-info ">
+                                <div className="contact-info-box">
+                                    <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
+                                    <div className="contact-info-box-content">
+                                        <h4>Address: </h4>
+                                        <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-4">
+                            <div className="contact-info ">
+                                <div className="contact-info-box ">
+                                    <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
+                                    <div className="contact-info-box-content">
+                                        <h4>Email: </h4>
+                                        <p>debsocnsit@gmail.com</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-4">
+                            <div className="contact-info-box ">
+                                <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
+                                <div className="contact-info-box-content">
+                                    <h4>Phone: </h4>
+                                    <p>Anyone any : 91-9800000000</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            <div className="container text-center">
+                <div className="row">
+                    <div className="col-md-12">
+                            <div id="contact-social" className="footer-social">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                </ul>
+                            </div>
+                            <div className="copyright-info">
+                                <span>Copyright © 2022 DebSoc NSUT. All Rights Reserved.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </footer>
         </div>
     );
 }
