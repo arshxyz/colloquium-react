@@ -14,10 +14,10 @@ export const MUNDepartment = () => {
     ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
-    {title: "45 Awards", text: "Content"},
-    {title: "SNMUN", text: "Content goes here"},
-    {title: "XYZ", text:"Content goes here"},
-    {title: "Fdjklasf", text:"Content goes here"}
+    {title: "57 Individual Awards", text: "Content"},
+    {title: "Stockholm MUN'21", text: "Content goes here"},
+    {title: "3 Best Delegations", text:"Content goes here"},
+    {title: "NSUTMUN'22", text:"Content goes here"}
     ]
     return (
         <>
@@ -57,7 +57,7 @@ export const MUNDepartment = () => {
         <Grid item xs={12} container spacing={4} className="achievements" justifyContent={"center"}>
         
           <Grid item container justifyContent={"center"} xs={12} md={8} className="dep-leftpane">
-            <div className="achievements-title">Our Achievements 🏆</div>
+            <div className="achievements-title">Our Achievements 2021-22 🏆</div>
             <Grid item container xs={12}  justifyContent={"center"} alignItems={"flex-start"}>
             {achievements.map((item) => (
               <Grid item container xs={12} md={6} justifyContent={"center"}>
