@@ -1,0 +1,58 @@
+.desc{ 
+    height: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.9rem;
+    color: black;
+}
+
+.desc h2{
+    text-decoration: underline;
+    text-align: center;
+}
+.fh5co-team figure img {
+    width: 85%;
+    height: 35vh;
+    border: 10px solid #fff;
+    border-radius: 10%;
+    background-size: cover;
+}
+
+
+@media screen and (min-width: 1300Px)
+{ .desc{
+    height: 67%;
+    width: 40vw;
+    margin-left: -42%;
+}
+}
+
+
+#fh5co-slider{
+    padding: 2.7em 0em;
+    /* background-image: radial-gradient(white,  hsl(340, 90%, 52%) 70%); */
+}
+
+
+
+#fh5co-hero .flexslider .slider-text-bg .desc {
+    margin-top: 9em;
+    padding: 2em;
+    /* background: rgba(108, 184, 255, 0.801); */
+    /* color: white; */
+    -webkit-box-shadow: 0px 21px 24px 0px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 21px 24px 0px rgba(0, 0, 0, 0.13);
+    box-shadow: 0px 21px 24px 0px rgba(0, 0, 0, 0.13);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* #fh5co-content-section{
+    background-image: radial-gradient(white, #f3d10e 70%);
+} */
+
+.carousel-inner>.item>img {
+    width: 30%;
+    height: 30%;
+}

@@ -8,12 +8,14 @@ import AboutUs from "./Components/AboutUs/AboutUsPage.jsx";
 import { MUNDepartment } from "./Components/Departments/MUN";
 import { PDDepartment } from "./Components/Departments/PD";
 import Colloquium from "./Components/Colloquium";
+import Home from "./Components/Home";
 
-export const Home = () => {
+export const home = () => {
   return (
     <div className="App">
       <Header/>
     <NavBar/>
+    <Home/>
   </div>
   )
 }

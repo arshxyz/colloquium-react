@@ -10,7 +10,7 @@ class Header extends Component {
 
     const project = "this.props.data.project";
     const name = "Debsoc NSUT";
-    const description = "Lorem Ipsum";
+    const description = "The Debating Society of Netaji Subhas University of Technology";
     
     return (
       <header id="home">
@@ -23,27 +23,27 @@ class Header extends Component {
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
             <Fade bottom duration={1200}>
-              <h3>{description}.</h3>
+              <h3 style={{size:'200%'}}>{description}.</h3>
             </Fade>
             <hr />
             <Fade bottom duration={2000}>
-              <ul className="social">
+              {/* <ul className="social">
                 <a href={project} className="button btn project-btn">
                   <i className="fa fa-trophy"></i>Our Achievements
                 </a>
                 <Link to ="/about" className="button btn about-btn">
                   <i className="fa fa-info-circle"></i>About us
                 </Link>
-              </ul>
+              </ul> */}
             </Fade>
           </div>
         </div>
 
-        <p className="scrolldown">
+        {/* <p className="scrolldown">
           <a className="smoothscroll" href="#about">
             <i className="icon-down-circle"></i>
           </a>
-        </p>
+        </p> */}
       </header>
     );
   }
