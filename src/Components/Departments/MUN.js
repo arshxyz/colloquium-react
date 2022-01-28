@@ -11,7 +11,12 @@ export const MUNDepartment = () => {
   }, []);
 
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
-    const achievements = [{title: "fdjsflddsa", text: lorem}, {title: "Fdjklasf", text:lorem}, {title: "Fdjklasf", text:lorem}]
+    const achievements = [
+    {title: "45 Awards", text: "Content"},
+    {title: "SNMUN", text: "Content goes here"},
+    {title: "XYZ", text:"Content goes here"},
+    {title: "Fdjklasf", text:"Content goes here"}
+    ]
     return (
         <>
         <header id="departmentBg">
@@ -24,7 +29,7 @@ export const MUNDepartment = () => {
               <h1 >Model United Nations</h1>
             </Fade>
             <Fade bottom duration={1200}>
-              <h3 className="dep-byline">Conquerors of the Delhi Circuit!</h3>
+              <h3 className="dep-byline">“Ponder, propose, parley, persuade and procure with prudence” - MUN in a nutshell</h3>
             </Fade>
             <hr />
           </div>
@@ -42,32 +47,31 @@ export const MUNDepartment = () => {
         </Grid>
         <Grid item xs={10} md={6} container justifyContent={"center"}>
           <Fade bottom>
-          <h2 className="dep-intro"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.</h2>
+          <h2 className="dep-intro">
+          With multiple executive board level members of the circuit being a part of DebSoc NSUT, the MUN dept is one of the strongest competitive teams of any kind at NSUT. Being adjudged as the best delegation in over half the conferences it attends, the MUN dept. provides one with a chance to not only experience moments of victory but to organize conferences, learning to work with your peers, juniors and seniors alike, voicing your opinions, moulding and adapting ideas, analyzing, strategizing and optimizing the solutions to problems.
+          </h2>
           </Fade>
         </Grid>
         <Grid item xs={12} container spacing={4} className="achievements" justifyContent={"center"}>
-          <Grid item container justifyContent={"center"} xs={12} md={6} className="dep-leftpane">
-            <Fade>
-            <img src="https://images.unsplash.com/photo-1642757433561-1985d6b9f642?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0MzEwNTA2Ng&ixlib=rb-1.2.1&q=80&w=600" alt="fdfda"/>
-            </Fade>
-          </Grid>
-          <Grid item container justifyContent={"center"} xs={12} md={6} className="dep-leftpane">
+        
+          <Grid item container justifyContent={"center"} xs={12} md={8} className="dep-leftpane">
             <div className="achievements-title">Our Achievements 🏆</div>
-            <Grid item container xs={12}  alignItems={"flex-start"}>
+            <Grid item container xs={12}  justifyContent={"center"} alignItems={"flex-start"}>
             {achievements.map((item) => (
+              <Grid item container xs={12} md={6} justifyContent={"center"}>
               <Fade bottom>
                 <div>
-                <h3 className="achievement-topic">{item.title}</h3>
-                <p className="achievement-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius</p>
-                <Divider/>
+                <h3 className="achievement-topic" style={{textAlign: "center"}}>{item.title}</h3>
+                <p className="achievement-text">{item.text}</p>
                 </div>  
               </Fade>
+              </Grid>
             ))}
             </Grid>
           </Grid>
           </Grid>
           <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Meet our team</h2>
+          {/* <h2 className="dep-subheading">Meet our team</h2>
           <Grid item container justifyContent={"center"}>
           <Grid item container xs={6} md={3} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
@@ -80,7 +84,7 @@ export const MUNDepartment = () => {
                             fdfd
                         </Grid>
                     </Grid>
-          </Grid>
+          </Grid> */}
           </Grid>
       </Grid>
 
