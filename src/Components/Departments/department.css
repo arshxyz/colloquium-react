@@ -1,75 +1,75 @@
 #departmentBg {
-    background-image: url("dep.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 90vh !important;
+    background-image: url("dep.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 90vh !important ;
 }
 .dep-byline {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     font-size: 28px !important;
-    font-weight: 900 !important;
+    font-weight: 900 !important ;
     font-family: 'Kanit' !important;
 }
 
 .mainContent {
-    background-color: rgb(30, 30, 30);
-    color: white;
+    background-color: rgb(30, 30, 30) !important;
+    color: white !important;
 }
 
 .dep-subheading {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
-    margin: 0.6em;
-    font-weight: 700;
-    color: white;
-    font-family: 'Poppins';
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 50px !important;
+    margin: 0.6em !important;
+    font-weight: 700 !important;
+    color: white !important;
+    font-family: 'Poppins' !important;
 }
 .dep-intro {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: lighter;
-    line-height: 30px;
-    color: white;
-    text-align: center;
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: lighter !important;
+    line-height: 30px !important;
+    color: white !important;
+    text-align: center !important;
 }
 .achievements {
-    padding: 5em 5em 0 5rem;
+    padding: 5em 5em 0 5rem !important;
 }
 .achievement-topic{
-    margin-top: 1em;
-    text-align: center;
+    margin-top: 1em !important;
+    text-align: center !important;
 }
 
 .achievements-title{
-    font-size: 45px;
-    font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 45px !important;
+    font-weight: 500 !important;
+    font-family: 'Montserrat', sans-serif !important;
 
 }
 .achievement-text {
-    font-size: 18px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: lighter;
-    color: white;
-    text-align: center;
+    font-size: 18px !important;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: lighter !important;
+    color: white !important;
+    text-align: center !important;
     margin: 1em 0 1em 0 !important;
 }
 
 .facepic {
-    min-width: 10em;
-    min-height: 10em;
+    min-width: 10em !important;
+    min-height: 10em !important;
 }
 
 .memName {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     margin-top: 1em !important;
-    font-weight: 600;
-    font-size: 20px;
+    font-weight: 600 !important;
+    font-size: 20px !important;
 }
 .memDesignation {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     margin-top: 0.5em !important;
-    font-size: 18px;
+    font-size: 18px !important;
 }
 
 .memberContainer {
@@ -82,10 +82,10 @@
         height: 50vh !important;
     }
     .achievements {
-        padding: 20px;
+        padding: 20px !important;
     }
     .facepic {
-        width: 150px;
-        height: 150px;
+        width: 150px !important;
+        height: 150px !important;
     }
   }
