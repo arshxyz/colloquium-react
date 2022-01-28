@@ -2394,6 +2394,16 @@ select {
   border: none;
 }
 
+.dept-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1e1e1e;
+  position: relative;
+  margin-top: 30px;
+  /* margin-bottom: 130px; */
+  border: none;
+}
 .events-section::before {
   content: "";
   position: absolute;
