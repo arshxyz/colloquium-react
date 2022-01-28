@@ -14,11 +14,7 @@ export const NavBar = () => {
         <li className="current">
         <Link to="/">Home</Link>
         </li>
-        <li>
-            <a className="smoothscroll" href="#contact">
-            Contact
-            </a>
-        </li>
+
         {/* <li>
         <Link to="/ourteam">Our Team</Link>
         </li> */}
