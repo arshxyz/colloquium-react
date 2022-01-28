@@ -75,7 +75,7 @@ export const PDDepartment = () => {
           </Grid>
           </Grid>
           <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Meet our team</h2>
+          <h2 className="dep-subheading">PD Team</h2>
           <Grid item container justifyContent={"center"}>
             {members.map((member) => (
           <Grid item className="memberContainer" container xs={6} md={4} justifyContent={"center"}>
