@@ -19,7 +19,7 @@ export const PDDepartment = () => {
   ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
-    {title: "10 Team breaks", text: "At prestigious tourneys including DTU PD, Axiom, Rahat and Pearl among others"},
+    {title: "10 Team breaks", text: "Including DTU PD, Axiom, Rahat and Pearl among others"},
     {title: "9 Adjudication breaks", text: "At IIT-D PD, Venky, SRDF and Pearl among others"},
     ]
     return (
@@ -48,7 +48,7 @@ export const PDDepartment = () => {
       </header>
       <Grid container justifyContent={"center"} className="mainContent">
         <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Who we are</h2>
+          <h2 className="dep-subheading">Who are we?</h2>
         </Grid>
         <Grid item xs={10} md={6} container justifyContent={"center"}>
           <Fade bottom>
@@ -58,8 +58,8 @@ export const PDDepartment = () => {
         <Grid item xs={12} container spacing={4} className="achievements" justifyContent={"center"}>
         
           <Grid item container justifyContent={"center"} xs={12} md={8} className="dep-leftpane">
-            <div className="achievements-title">Our Achievements 🏆</div>
-            <Grid item container xs={12}  justifyContent={"center"} alignItems={"flex-start"}>
+            <div className="achievements-title">Our Achievements</div>
+            <Grid item container xs={12} spacing={4} justifyContent={"center"} alignItems={"flex-start"}>
             {achievements.map((item) => (
               <Grid item container xs={12} md={6} justifyContent={"center"}>
               <Fade bottom>

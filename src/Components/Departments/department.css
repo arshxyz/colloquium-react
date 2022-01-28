@@ -18,9 +18,9 @@
 
 .dep-subheading {
     font-family: 'Montserrat', sans-serif;
-    font-size: 32px;
-    margin: 1em;
-    font-weight: 600;
+    font-size: 50px;
+    margin: 0.6em;
+    font-weight: 700;
     color: white;
     font-family: 'Poppins';
 }
@@ -28,7 +28,9 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     font-weight: lighter;
+    line-height: 30px;
     color: white;
+    text-align: center;
 }
 .achievements {
     padding: 5em 5em 0 5rem;
@@ -39,7 +41,8 @@
 }
 
 .achievements-title{
-    font-size: 30px;
+    font-size: 45px;
+    font-weight: 500;
     font-family: 'Montserrat', sans-serif;
 
 }
@@ -48,6 +51,7 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
     color: white;
+    text-align: center;
     margin: 1em 0 1em 0 !important;
 }
 
@@ -71,6 +75,7 @@
 .memberContainer {
     margin-top: 1em !important;
 }
+
 
 @media screen and (max-width: 600px) {
     #departmentBg {
