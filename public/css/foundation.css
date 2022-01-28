@@ -2443,7 +2443,7 @@ select {
   background-color: transparent !important;
 }
 .event-image {
-  max-width: 30vw;
+  max-width: 28vw;
   border-radius: 25px;;
 }
 
@@ -2462,7 +2462,7 @@ select {
   font-size: 1.3vw;
   position: relative;
   max-width: 100%;
-  margin-left: -55%;
+  margin-left: -61%;
   padding: 15px;
   font-family: 'Montserrat', sans-serif !important; 
   cursor: pointer;

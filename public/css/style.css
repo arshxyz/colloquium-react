@@ -275,7 +275,7 @@ img.pull-right {
 .section-sub-title,
 .intro-sub-title {
     font-weight: 900;
-    font-size: 36px;
+    font-size: 55px;
     line-height: 46px;
     margin: 0 0 60px;
     color: #1c1c24;
@@ -993,7 +993,7 @@ ul.navbar-nav > li:hover > a{
 /*-- Main slide --*/
 
 #main-slide .item {
-    min-height: 700px;
+    min-height: 600px;
     color: #fff;
   background-repeat: no-repeat;
 background-size: 100% 104%;
@@ -1338,6 +1338,7 @@ background-size: 100% 104%;
 .ts-intro-center .intro-desc{
     max-width: 850px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .intro-content{

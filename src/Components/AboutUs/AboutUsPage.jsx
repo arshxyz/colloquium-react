@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import './AboutUsPage.css';
 import cover from './AboutUsImage/cover.png';
 import logo from './AboutUsImage/debsoc.png';
@@ -9,6 +9,11 @@ import OurTeam from './ourTeam/ourTeam';
 import {Fade} from "react-reveal"
 
 function AboutUs() {
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
+
     return (
         <div className='bg'>
             <NavBar />
