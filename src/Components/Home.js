@@ -126,7 +126,7 @@ function Home(){
                                 away from home, a family where everyone works on motivating others to be the best versions of themselves, 
                                 in all aspects of life. <br/>With days spent debating, and nights spent reminiscing on those memories and making 
                                 new ones, DebSoc is truly the most wholesome society I’ve had an opportunity to be a part of.</p>
-                            <span>Tushar Renjhen</span><br/>
+                            <span>Arjun Singh</span><br/>
                             <small>President, DebSoc</small>
                             </div>
                         </div>
@@ -163,7 +163,7 @@ function Home(){
                     <div className="col-md-6 animate-box">
                         <div className="user-frame">
                             <div className="container-fluid px-0">
-                                <img src="./images/team/Rahul.jpg" class="presidents" alt="..."/>
+                                <img src="./images/team/Sanskriti.jpeg" class="presidents" alt="..."/>
                             </div>
                             <h3 style={{textAlign: 'center'}}>HNMUN Delegation'20</h3>
                             <p style={{textAlign: 'center'}}>My HNMUN journey was an amazing one, fair to say, it was a life changing 
@@ -181,7 +181,7 @@ function Home(){
                     <div className="col-md-6 animate-box">
                         <div className="user-frame">
                             <div class="container-fluid px-0">
-                                <img src="images/Pawan-HN.jpg" class="presidents" alt="..."/>
+                                <img src="./images/team/Pawan-HN.jpg" class="presidents" alt="..."/>
                             </div>
                             <h3 style={{textAlign: 'center'}}>HNMUN Delegation'20</h3>
                             <p style={{textAlign: 'center'}}>My HNMUN journey is something that I probably will draw satisfaction from, for a very long time. I found people I spent close to four months together with, and was pretty much forced to fall in love with. They are people I have memories with that I’ll cherish for a very long time. And yet right now, I find it extremely hard to put my feelings down in plain words, if any.<br/>
@@ -193,6 +193,67 @@ function Home(){
                 </div>
             </div>
         </div>
+
+        <footer id="wb7" className="footer">
+
+<div className="container">
+            <div className=" text-center">
+                <h2 className="section-title" style={{color:'#c3152c'}}>Where to find us</h2>
+            </div>
+            <br/><br/><br/>
+            <div className="row">
+                <div className="col-md-4">
+                    <div className="contact-info ">
+                        <div className="contact-info-box">
+                            <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
+                            <div className="contact-info-box-content">
+                                <h4>Address: </h4>
+                                <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-4">
+                    <div className="contact-info ">
+                        <div className="contact-info-box ">
+                            <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
+                            <div className="contact-info-box-content">
+                                <h4>Email: </h4>
+                                <p>debsoc.nsut@gmail.com</p>
+                                <p className='colmail'>colloquium.nsut@gmail.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-4">
+                    <div className="contact-info-box ">
+                        <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
+                        <div className="contact-info-box-content">
+                            <h4>Phone: </h4>
+                            <p>Arjun Singh: +91-8979254865</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div className="container text-center">
+        <div className="row">
+            <div className="col-md-12">
+                    <div id="contact-social" className="footer-social">
+                        <ul>
+                            <li><a href="https://www.facebook.com/DebSocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                            <li><a href="https://www.instagram.com/debsocnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                        </ul>
+                    </div>
+                    <div className="copyright-info">
+                        <span>Copyright © 2022 DebSoc NSUT. All Rights Reserved.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+</footer>
      
     </div>
     )
