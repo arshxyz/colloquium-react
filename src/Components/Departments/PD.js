@@ -19,8 +19,8 @@ export const PDDepartment = () => {
   ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
-    {title: "10 Team breaks", text: "A plethora of Breaks at prestigious tourneys including DTU PD, Axiom, Rahat and Pearl among others"},
-    {title: "9 Adjudication breaks", text: "Content goes here"},
+    {title: "10 Team breaks", text: "At prestigious tourneys including DTU PD, Axiom, Rahat and Pearl among others"},
+    {title: "9 Adjudication breaks", text: "At IIT-D PD, Venky, SRDF and Pearl among others"},
     ]
     return (
         <>
