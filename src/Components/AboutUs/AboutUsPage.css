@@ -2,13 +2,14 @@
     background-color: black;
 }
 .cover{
-    height: 40vw;
-    margin-bottom: 10px;
-    width:100%;
-    border-radius: 2%;
+    height: 90vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 .content{
     margin: 5%;
+    margin-top: 2%;
 }
 .sign{
     float:right;
@@ -40,6 +41,9 @@
 }
 @media only screen and (max-width:767px)
 {
+    .cover{
+        height: 50vh;
+    }
     .who{
         width:100%;
     }

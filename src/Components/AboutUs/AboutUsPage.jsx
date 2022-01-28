@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import './AboutUsPage.css';
 import cover from './AboutUsImage/cover.png';
 import logo from './AboutUsImage/debsoc.png';
@@ -9,11 +9,6 @@ import OurTeam from './ourTeam/ourTeam';
 import {Fade} from "react-reveal"
 
 function AboutUs() {
-
-    useEffect(() => {
-        window.scrollTo(0, 0);
-      }, []);
-
     return (
         <div className='bg'>
             <NavBar />
@@ -50,7 +45,7 @@ function AboutUs() {
                                 <div className="contact-info-box">
                                     <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
-                                        <h4 style={{color: '#fff !important'}}>Address: </h4>
+                                        <h4>Address: </h4>
                                         <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
                                     </div>
                                 </div>
@@ -61,7 +56,7 @@ function AboutUs() {
                                 <div className="contact-info-box ">
                                     <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
-                                        <h4 style={{color: '#fff !important'}}>Email: </h4>
+                                        <h4>Email: </h4>
                                         <p>debsoc.nsut@gmail.com</p>
                                         <p className='colmail'>colloquium.nsut@gmail.com</p>
                                     </div>
@@ -72,7 +67,7 @@ function AboutUs() {
                             <div className="contact-info-box ">
                                 <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                                 <div className="contact-info-box-content">
-                                    <h4 style={{color: '#fff !important'}}>Phone: </h4>
+                                    <h4>Phone: </h4>
                                     <p>Arjun Singh: +91-8979254865</p>
                                 </div>
                             </div>
