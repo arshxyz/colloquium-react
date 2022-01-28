@@ -478,7 +478,6 @@ img {
   display: inline-block;
   vertical-align: middle;
   max-width: 100%;
-  margin: 0 40px;
   height: auto;
   -ms-interpolation-mode: bicubic; }
 
@@ -2383,8 +2382,7 @@ select {
 }
 .events-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.4375rem;
-  font-weight: 700;
+  font-size: 2.5em;
   text-align: center;
   color: rgb(195, 21, 44);
 }
@@ -2465,10 +2463,10 @@ select {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none !important;
-  font-size: 1.3vw;
+  font-size: 1.1vw;
   position: relative;
   max-width: 100%;
-  margin-left: -61%;
+  margin-left: -45%;
   padding: 15px;
   font-family: 'Montserrat', sans-serif !important; 
   cursor: pointer;
@@ -2590,6 +2588,32 @@ select {
   }
 }
 /*end*/
+
+ .banner h1 {
+   font: 90px/1.1em 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   margin: 0 auto 18px auto;
+   text-align: center;
+   margin-top: 15%;
+}
+ .banner h3 {
+   font: 18px/1.9em 'librebaskerville-regular', serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+   text-align: center;
+}
+ .banner h3 span,
+ .banner h3 a {
+   color: #fff;
+}
+ .banner hr {
+   width: 60%;
+   margin: 18px auto 24px auto;
+   border-color: #2F2D2E;
+   border-color: rgba(150, 150, 150, .1);
+}
 
 #owl-demo .item_owl{
   margin: 3px;
