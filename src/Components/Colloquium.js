@@ -1,6 +1,7 @@
 import React,{ useEffect} from 'react';
 import loadjs from 'loadjs';
-import { NavBar } from "./Nav"
+import { NavBar } from "./Nav";
+import { Fade } from "react-reveal";
 // import ReactDOM from "react-dom";
 
 function Colloquium(){
@@ -52,21 +53,32 @@ function Colloquium(){
         <a href="#wb1"><li className="hov">Home</li></a>
     </ul>
 </header> */}
+
         <div id="main-slide">
-                        
                        <div className="carousel-inner">
-                <div className="item active" style={{backgroundImage: 'url(images/hero-area/Colloquium_m.png)', zIndex: 1}} id="wb1">
-    
+                <div className="item active" style={{backgroundImage: 'url(images/hero-area/Colloq_m.png)', zIndex: 1}} id="wb1">
+                <div className="row banner">
+          <div className="banner">
+            <Fade bottom>
+              <h1 >Colloquium</h1>
+            </Fade>
+            <Fade bottom duration={1200}>
+              <h3 className="dep-byline">NSUT's Literary and Debating Festival. </h3>
+            </Fade>
+            <hr />
+          </div>
+        </div>
+        
                 </div>
             </div>
             </div>
-                
+                      
 
             <section id="wb2" className="ts-intro" style={{backgroundColor: '#1e1e1e' }}>
                 <div className="container">
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-6">
-                            <h1 className="intro-title" style={{color: '#c3152c'}}>ABOUT THE EVENT</h1>
+                            
                             <p className="intro-desc" style={{color: '#f8f8f8', width: '85%'}}>The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
 Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- Colloquium.<br/>
 Despite all restrictions that prevail, this edition of Colloquium promises to be as great as it has been in the past, adding more to the legacy it already has. 
@@ -144,7 +156,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className=" section-title" style={{color:'black'}}>NSMPD</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -155,7 +167,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>NSUTMUN</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Model United Nations </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -166,7 +178,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>In Case You Can</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +189,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>IP</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +200,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Contendere</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +211,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Fandemic</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +222,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Drunk History</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +234,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>A Knack for Wack</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -251,7 +263,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                                                 logic and public speaking.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -263,6 +275,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     <div className="event-img-wrapper">
       <img src="./images/events/mun.png" alt="event" className="event-image bellwether" />
     </div>
+    <br /><br />
     <div className="event-info">
       <h2 className="event-title accent-text">NSUTMUN</h2>
       <p className="event-tagline"><b>Model United Nation</b></p>
@@ -270,7 +283,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important', marginLeft: '-65%'}}>Register</a>
                        </div>
     </div>
   </div>
@@ -286,11 +299,11 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                                                 correct blend of logic, rigour and academic brilliance to ace the competition.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
-      <img src="./images/events/pd.png" alt="event" className="event-image startupcombat" />
+      <img src="./images/events/cs.png" alt="event" className="event-image startupcombat" />
     </div>
 
   </div>
@@ -298,7 +311,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   <div className="event-card">
     <div className="event-img-wrapper">
       <img
-        src="./images/events/mun.png"
+        src="./images/events/cs.png"
         alt="event" className="event-image unravel" />
     </div>
     <div className="event-info">
@@ -313,7 +326,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
 
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
@@ -330,12 +343,12 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
       <img
-        src="./images/events/pd.png"
+        src="./images/events/cs.png"
         alt="event" className="event-image startupcombat" />
     </div>
   </div>
@@ -343,7 +356,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   <div className="event-card">
     <div className="event-img-wrapper">
       <img
-        src="./images/events/pd.png"
+        src="./images/events/cs.png"
         alt="event" className="event-image mockstonks" />
     </div>
     <div className="event-info">
@@ -357,7 +370,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
@@ -373,18 +386,18 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>    <div className="event-img-wrapper">
       <img
-        src="./images/events/mun.png"
+        src="./images/events/cs.png"
         alt="event" className="event-image paneldiscussion" />
     </div>
   </div>
   <div className="event-card">
     <div className="event-img-wrapper">
       <img
-        src="./images/events/pd.png"
+        src="./images/events/cs.png"
         alt="event" className="event-image speakersession" />
     </div>
     <div className="event-info">
@@ -398,7 +411,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
