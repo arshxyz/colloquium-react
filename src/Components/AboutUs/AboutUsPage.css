@@ -2,13 +2,14 @@
     background-color: black;
 }
 .cover{
-    height: 40vw;
-    margin-bottom: 10px;
-    width:100%;
-    border-radius: 2%;
+    height: 90vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 .content{
     margin: 5%;
+    margin-top: 2%;
 }
 .sign{
     float:right;
@@ -22,6 +23,7 @@
 .who h1{
     color: white;
     font-size: 2.75rem;
+    font-weight: 700;
 }
 .who p{
     font-size: 1rem;
@@ -34,18 +36,23 @@
     color: white;
     text-align: center;
     font-size: 3.75rem;
+    font-weight: 700;
 }
 .colmail{
     margin-top: 0%;
 }
 @media only screen and (max-width:767px)
 {
+    .cover{
+        height: 50vh;
+    }
     .who{
         width:100%;
     }
     .who h1{
         color: white;
         font-size: 2rem;
+        font-weight: 600;
     }
     .who p{
         font-size: 0.75rem;

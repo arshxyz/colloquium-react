@@ -249,6 +249,9 @@ figure {
     font-weight: 500;
     margin: 0 0 5px 0;
 }
+h4{
+    color:white;
+}
 
 ::-webkit-selection {
     color: #fff;

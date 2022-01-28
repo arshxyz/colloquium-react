@@ -5,8 +5,8 @@ function dept(){
         <div>
             <section class="dept-section" id="wb3">
 
-<h1 class="events-title accent-text" style={{textAlign: 'center'}}>
-  <span class="stroke-text-white" style={{color: 'white'}}>Our </span>Departments
+<h1 class="events-title accent-text" style={{textAlign: 'center', color: 'white'}}>
+  <span class="stroke-text-white" >Our </span>Departments
 </h1>
 <div class="event-card-wrapper">
   <div class="event-card">
@@ -25,13 +25,13 @@ function dept(){
                        </div>
     </div>
     <div class="event-img-wrapper">
-      <img src="./images/events/pd.png" alt="event" class="event-image instaseed" />
+      <img src="./images/dept/pd_card.png" alt="event" class="event-image instaseed" />
     </div>
   </div>
 
   <div class="event-card">
     <div class="event-img-wrapper">
-      <img src="./images/events/mun.png" alt="event" class="event-image bellwether" />
+      <img src="./images/dept/mun_card.png" alt="event" class="event-image bellwether" />
     </div>
     <div class="event-info">
       <h2 class="event-title accent-text">Model United Nations</h2>
@@ -64,7 +64,7 @@ function dept(){
                        </div>
     </div>
     <div class="event-img-wrapper">
-      <img src="./images/events/pd.png" alt="event" class="event-image startupcombat" />
+      <img src="./images/dept/gd_card.png" alt="event" class="event-image startupcombat" />
     </div>
 
   </div>
@@ -72,11 +72,11 @@ function dept(){
   <div class="event-card">
     <div class="event-img-wrapper">
       <img
-        src="./images/events/mun.png"
+        src="./images/dept/lit_card.png"
         alt="event" class="event-image unravel" />
     </div>
     <div class="event-info">
-      <h2 class="event-title accent-text">The Page Turners</h2>
+      <h2 class="event-title accent-text">Literary Department</h2>
       <p class="event-tagline"><b>"We’re a group of readers, thinkers and writers. So open a book, and turn the page"</b></p>
       <p class="event-desc">
       The Page Turners was founded in 2015, as a group of people enthusiastic about reading and writing. It has 
@@ -92,7 +92,7 @@ function dept(){
 
   <div class="event-card">
   <div class="event-info">
-      <h2 class="event-title accent-text">Tech&Design</h2>
+      <h2 class="event-title accent-text">Technology & Design</h2>
       <p class="event-tagline"><b>"Technology is intelligence exemplified, while Design is intelligence made visible"</b></p>
       <p class="event-desc">
       The Technology and Design Department of DebSoc NSUT works to fullfill every Technological demands
@@ -106,7 +106,7 @@ function dept(){
     </div>
     <div class="event-img-wrapper">
       <img
-        src="./images/events/pd.png"
+        src="./images/dept/pd_card.png"
         alt="event" class="event-image startupcombat" />
     </div>
   </div>

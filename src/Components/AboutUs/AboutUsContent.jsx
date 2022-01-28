@@ -6,7 +6,7 @@ function AboutUsContent(){
     return(
     <div className='who'>
         <Fade bottom>
-        <h1>Who Are We ?</h1>
+        <h1 style={{textTransform: 'capitalize'}}>Who are we ?</h1>
         </Fade>
 
         <Fade bottom>
