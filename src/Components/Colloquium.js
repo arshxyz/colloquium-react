@@ -144,7 +144,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className=" section-title" style={{color:'black'}}>NSMPD</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -155,7 +155,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>NSUTMUN</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Model United Nations </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -166,7 +166,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>In Case You Can</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +177,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>IP</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Contendere</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +199,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Fandemic</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +210,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Drunk History</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +222,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>A Knack for Wack</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}>Register</a></p>
+                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Register</a></p>
                                 </div>
                             </div>
                         </div>
@@ -233,78 +233,78 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                 
             </section> */}
 
-<section class="events-section" id="wb3">
+<section className="events-section" id="wb3">
 
-<h1 class="events-title accent-text" style={{textAlign: 'center'}}>
-  <span class="stroke-text-white" style={{color: 'white'}}>Explore </span>Events
+<h1 className="events-title accent-text" style={{textAlign: 'center'}}>
+  <span className="stroke-text-white" style={{color: 'white'}}>Explore </span>Events
 </h1>
-<div class="event-card-wrapper">
-  <div class="event-card">
-  <div class="event-info">
-      <h2 class="event-title accent-text">NSMPD</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+<div className="event-card-wrapper">
+  <div className="event-card">
+  <div className="event-info">
+      <h2 className="event-title accent-text">NSMPD</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
       One of the most reputed Parliamentary Debating
                                                                 Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
                                                                 participants, NSMPD witnesses the best of Delhi Circuit debating upon a
                                                                 plethora of topics, the debate is a beautiful profusion of rationale,
                                                                 logic and public speaking.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
-    <div class="event-img-wrapper">
-      <img src="./images/events/pd.png" alt="event" class="event-image instaseed" />
+    <div className="event-img-wrapper">
+      <img src="./images/events/pd.png" alt="event" className="event-image instaseed" />
     </div>
   </div>
 
-  <div class="event-card">
-    <div class="event-img-wrapper">
-      <img src="./images/events/mun.png" alt="event" class="event-image bellwether" />
+  <div className="event-card">
+    <div className="event-img-wrapper">
+      <img src="./images/events/mun.png" alt="event" className="event-image bellwether" />
     </div>
-    <div class="event-info">
-      <h2 class="event-title accent-text">NSUTMUN</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+    <div className="event-info">
+      <h2 className="event-title accent-text">NSUTMUN</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
       The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
   </div>
-  <div class="event-card">
+  <div className="event-card">
 
-  <div class="event-info">
-      <h2 class="event-title accent-text">In Case You Can</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+  <div className="event-info">
+      <h2 className="event-title accent-text">In Case You Can</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
       This Case Study Competition allows for participants to
                                                                 deliberate and analyse rigorously selected Cases, which tickle the
                                                                 entrepreneurial mind and tests your business acumen. Participants require the
                                                                 correct blend of logic, rigour and academic brilliance to ace the competition.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
-    <div class="event-img-wrapper">
-      <img src="./images/events/pd.png" alt="event" class="event-image startupcombat" />
+    <div className="event-img-wrapper">
+      <img src="./images/events/pd.png" alt="event" className="event-image startupcombat" />
     </div>
 
   </div>
 
-  <div class="event-card">
-    <div class="event-img-wrapper">
+  <div className="event-card">
+    <div className="event-img-wrapper">
       <img
         src="./images/events/mun.png"
-        alt="event" class="event-image unravel" />
+        alt="event" className="event-image unravel" />
     </div>
-    <div class="event-info">
-      <h2 class="event-title accent-text">IP</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+    <div className="event-info">
+      <h2 className="event-title accent-text">IP</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
         about. Entering into the shoes of a company owner, one
@@ -312,93 +312,93 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
 
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
   </div>
 
-  <div class="event-card">
-  <div class="event-info">
-      <h2 class="event-title accent-text">Contendere</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+  <div className="event-card">
+  <div className="event-info">
+      <h2 className="event-title accent-text">Contendere</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
         about. Entering into the shoes of a company owner, one
         had to deal with the problems arising with different
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
-    <div class="event-img-wrapper">
+    <div className="event-img-wrapper">
       <img
         src="./images/events/pd.png"
-        alt="event" class="event-image startupcombat" />
+        alt="event" className="event-image startupcombat" />
     </div>
   </div>
 
-  <div class="event-card">
-    <div class="event-img-wrapper">
+  <div className="event-card">
+    <div className="event-img-wrapper">
       <img
         src="./images/events/pd.png"
-        alt="event" class="event-image mockstonks" />
+        alt="event" className="event-image mockstonks" />
     </div>
-    <div class="event-info">
-      <h2 class="event-title accent-text">Fandemic</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+    <div className="event-info">
+      <h2 className="event-title accent-text">Fandemic</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
         about. Entering into the shoes of a company owner, one
         had to deal with the problems arising with different
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
   </div>
-  <div class="event-card">
-  <div class="event-info">
-      <h2 class="event-title accent-text">Drunk History</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+  <div className="event-card">
+  <div className="event-info">
+      <h2 className="event-title accent-text">Drunk History</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
         about. Entering into the shoes of a company owner, one
         had to deal with the problems arising with different
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
-    </div>    <div class="event-img-wrapper">
+    </div>    <div className="event-img-wrapper">
       <img
         src="./images/events/mun.png"
-        alt="event" class="event-image paneldiscussion" />
+        alt="event" className="event-image paneldiscussion" />
     </div>
   </div>
-  <div class="event-card">
-    <div class="event-img-wrapper">
+  <div className="event-card">
+    <div className="event-img-wrapper">
       <img
         src="./images/events/pd.png"
-        alt="event" class="event-image speakersession" />
+        alt="event" className="event-image speakersession" />
     </div>
-    <div class="event-info">
-      <h2 class="event-title accent-text">A Knack for Wack</h2>
-      <p class="event-tagline"><b>The case study competition</b></p>
-      <p class="event-desc">
+    <div className="event-info">
+      <h2 className="event-title accent-text">A Knack for Wack</h2>
+      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
         about. Entering into the shoes of a company owner, one
         had to deal with the problems arising with different
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a class="button1 a" href="index.html">Register</a>
+      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Register</a>
                        </div>
     </div>
   </div>
@@ -897,7 +897,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         <div className="contact-info-box">
                             <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
                             <div className="contact-info-box-content">
-                                <h4>Address: </h4>
+                                <h4 style={{color: '#fff !important'}}>Address: </h4>
                                 <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
                             </div>
                         </div>
@@ -908,9 +908,11 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         <div className="contact-info-box ">
                             <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
                             <div className="contact-info-box-content">
-                                <h4>Email: </h4>
-                                <p>debsoc.nsut@gmail.com</p>
-                                <p>colloquium.nsut@gmail.com</p>
+                                <h4 style={{color: '#fff !important'}}>Email: </h4>
+                                <p>debsoc.nsut@gmail.com<br/>
+                                colloquium.nsut@gmail.com
+                                </p>
+                                
                             </div>
                         </div>
                     </div>
@@ -919,7 +921,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                     <div className="contact-info-box ">
                         <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                         <div className="contact-info-box-content">
-                            <h4>Phone: </h4>
+                            <h4 style={{color: '#fff !important'}}>Phone: </h4>
                             <p>Arjun Singh: +91-8979254865</p>
                         </div>
                     </div>

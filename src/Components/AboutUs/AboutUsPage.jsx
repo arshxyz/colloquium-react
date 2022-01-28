@@ -50,7 +50,7 @@ function AboutUs() {
                                 <div className="contact-info-box">
                                     <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
-                                        <h4>Address: </h4>
+                                        <h4 style={{color: '#fff !important'}}>Address: </h4>
                                         <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@ function AboutUs() {
                                 <div className="contact-info-box ">
                                     <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
-                                        <h4>Email: </h4>
+                                        <h4 style={{color: '#fff !important'}}>Email: </h4>
                                         <p>debsoc.nsut@gmail.com</p>
                                         <p className='colmail'>colloquium.nsut@gmail.com</p>
                                     </div>
@@ -72,7 +72,7 @@ function AboutUs() {
                             <div className="contact-info-box ">
                                 <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                                 <div className="contact-info-box-content">
-                                    <h4>Phone: </h4>
+                                    <h4 style={{color: '#fff !important'}}>Phone: </h4>
                                     <p>Arjun Singh: +91-8979254865</p>
                                 </div>
                             </div>
