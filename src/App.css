@@ -1,3 +1,5 @@
 #home {
     background-image: url("design.png");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
