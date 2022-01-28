@@ -2382,7 +2382,8 @@ select {
 }
 .events-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5em;
+  font-size: 3.4375rem;
+  font-weight: 700;
   text-align: center;
   color: rgb(195, 21, 44);
 }
@@ -2577,7 +2578,8 @@ select {
   }
 
   .event-title {
-    font-size: 1.2em;
+    font-size: 45px;
+    font-weight: 500;;
     width: 100%;
   }
   .event-desc {
