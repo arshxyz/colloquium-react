@@ -22,7 +22,7 @@ function AboutUs() {
             </Fade>
             <div className='content'>
                 <Fade bottom>
-                <img alt="hi" src={logo} className='logo'></img>
+                <img alt="hi" src={logo} className='sign'></img>
                 </Fade>
                 <AboutUsContent/>
             </div>
