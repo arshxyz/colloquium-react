@@ -134,6 +134,7 @@ header .scrolldown a:hover { color: #0762f9; }
    position: fixed;
    left: 0;
    top: 0;
+   background-color: #0e0e11;
 }
 .opaque { background-color: #333; }
 
@@ -927,7 +928,6 @@ call-to-action .button {
 
 footer {
    padding-top: 48px;
-   margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
    text-align: center;

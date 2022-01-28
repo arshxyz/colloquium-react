@@ -7,6 +7,7 @@ import { OurTeam } from "./Components/OurTeam/OurTeam";
 import AboutUs from "./Components/AboutUs/AboutUsPage.jsx";
 import { MUNDepartment } from "./Components/Departments/MUN";
 import { PDDepartment } from "./Components/Departments/PD";
+import Colloquium from "./Components/Colloquium";
 
 export const Home = () => {
   return (
@@ -25,6 +26,7 @@ export const App = () => {
       <Route path ="about" element={<AboutUs/>} />
       <Route path ="pd" element={<PDDepartment/>} />
       <Route path ="mun" element={<MUNDepartment/>} />
+      <Route path ="colloquium" element={<Colloquium/>} />
     </Routes>
   )
 }
