@@ -13,6 +13,7 @@
 .logo{
     float:right;
     width:25%;
+    height:auto;
     margin-right: 5%;
 }
 .who{
@@ -32,7 +33,7 @@
 .our h1{
     color: white;
     text-align: center;
-    font-size: 4rem;
+    font-size: 3.75rem;
 }
 .colmail{
     margin-top: 0%;
