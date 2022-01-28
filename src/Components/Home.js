@@ -169,9 +169,7 @@ function Home(){
                             <p style={{textAlign: 'center'}}>My HNMUN journey was an amazing one, fair to say, it was a life changing 
                                 opportunity for me. I could have never asked for anything better in my final year. I consider myself lucky 
                                 to have led such a talented, dedicated and diverse bunch which I now call family.  Four months of training 
-                                brought out the best in each of us, we grew individually and also as a team. The kind of exposure HNMUN gave 
-                                me is unparalleled, from being a shy person to voicing my opinion and debating in front of 200 delegates was 
-                                an enriching experience. On the way, I made loads of memories which I will cherish for a lifetime. The journey 
+                                brought out the best in each of us, we grew individually and also as a team. On the way, I made loads of memories which I will cherish for a lifetime. The journey 
                                 of four months of rigorous training to 4 successful days of conference, being a part of the “Indian Delegation”
                                  and holding the Indian flag with pride was definitely a once-in-a-lifetime experience.</p>
                             <span>Sanskriti Kocher</span><br/>
