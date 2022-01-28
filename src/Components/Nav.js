@@ -19,9 +19,9 @@ export const NavBar = () => {
             Contact
             </a>
         </li>
-        <li>
+        {/* <li>
         <Link to="/ourteam">Our Team</Link>
-        </li>
+        </li> */}
         <li>
         <Link to="/about">About Us</Link>
         </li>
