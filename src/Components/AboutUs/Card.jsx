@@ -1,7 +1,7 @@
 import React from 'react';
 import './card.css';
 
-const Card=({imageUrl,name,position,testimonial})=>(
+const Card=({imageUrl,name,position})=>(
     <div className='card'>
     <img src={imageUrl} className="pix"/>
     <h2 className='head'>{name}</h2>

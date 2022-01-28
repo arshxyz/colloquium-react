@@ -14,6 +14,14 @@ import shreyans from './Photos/Shreyans.jpeg';
 import avil from './Photos/Avil.jpg';
 import aditi from './Photos/Aditi.jpg';
 import sai from './Photos/Sai.JPG';
+import prithesh from './Photos/Prithesh.jpg';
+import shreya from './Photos/shreya.jpg';
+import pranav from './Photos/Pranav.jpg';
+import ishan from './Photos/Ishan .jpg';
+import jarul from './Photos/Jarul Jangid 1.jpg';
+import shrirang from './Photos/Shrirang.jpg';
+import shubham from './Photos/Shubham.jpg';
+import vijeya from './Photos/Vijeya Patel.jpg';
 
 const team=[
     {
@@ -126,6 +134,62 @@ const team=[
         name:'T. Sai Ganesh',
         position:'Director, Literary Department',
         imageUrl:sai,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:17,
+        name:'Ishan Chourasiya',
+        position:'Mentor, Parliamentary Debating',
+        imageUrl:ishan,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:18,
+        name:'Pranav Sharma',
+        position:'Mentor, Parliamentary Debating',
+        imageUrl:pranav,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:19,
+        name:'Shreya Singh',
+        position:'Mentor, General Debating',
+        imageUrl:shreya,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:20,
+        name:'Jarul Jangid',
+        position:'Mentor, General Debating',
+        imageUrl:jarul,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:21,
+        name:'Shrirang Khachane',
+        position:'Mentor, Model United Nations',
+        imageUrl:shrirang,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:22,
+        name:'Shubham',
+        position:'Mentor, Model United Nations',
+        imageUrl:shubham,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:23,
+        name:'Vijeya Patel',
+        position:'Member, Senior Executive Committee',
+        imageUrl:vijeya,
+        testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
+    },
+    {
+        id:24,
+        name:'Prithesh Dwivedi',
+        position:'Member, Senior Executive Committee',
+        imageUrl:prithesh,
         testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
     }
 ];
