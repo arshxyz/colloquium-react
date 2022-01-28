@@ -69,14 +69,14 @@ const team=[
     {
         id:7,
         name:'Nandni Srivastava',
-        position:'Head,Technology and Design',
+        position:'Head, Technology and Design',
         imageUrl:nandni,
         testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'   
     },
     {
         id:8,
         name:'Pranay Kothari',
-        position:'Head,Technology and Design',
+        position:'Head, Technology and Design',
         imageUrl:pranay,
         testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
     },

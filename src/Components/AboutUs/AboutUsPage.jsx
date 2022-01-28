@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutUsPage.css';
-import cover from './AboutUsImage/img.jpg';
+import cover from './AboutUsImage/cover.png';
 import logo from './AboutUsImage/debsoc.png';
 import { NavBar } from "../Nav";
 import { Footer } from "../Footer";
@@ -57,7 +57,8 @@ function AboutUs() {
                                     <i className="fa fa-envelope-o" style={{color:'#c3152c'}}>&nbsp;</i>
                                     <div className="contact-info-box-content">
                                         <h4>Email: </h4>
-                                        <p>debsocnsit@gmail.com</p>
+                                        <p>debsoc.nsut@gmail.com</p>
+                                        <p className='colmail'>colloquium.nsut@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +68,7 @@ function AboutUs() {
                                 <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                                 <div className="contact-info-box-content">
                                     <h4>Phone: </h4>
-                                    <p>Anyone any : 91-9800000000</p>
+                                    <p>Arjun Singh: +91-8979254865</p>
                                 </div>
                             </div>
                         </div>
@@ -79,9 +80,9 @@ function AboutUs() {
                     <div className="col-md-12">
                             <div id="contact-social" className="footer-social">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/ecell.nsit/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://in.linkedin.com/company/ecell-nsit-the-entrepreneurship-cell-of-nsit-"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/ecell.nsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/DebSocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a href="https://www.instagram.com/debsocnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                             <div className="copyright-info">
