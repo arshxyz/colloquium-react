@@ -6,24 +6,31 @@ import { NavBar } from "../Nav";
 import { Footer } from "../Footer";
 import AboutUsContent from './AboutUsContent';
 import OurTeam from './ourTeam/ourTeam';
+import {Fade} from "react-reveal"
 
 function AboutUs() {
     return (
         <div className='bg'>
             <NavBar />
-            <img alt="hi" src={cover} className='cover'></img>
+            <Fade>
+                <img alt="hi" src={cover} className='cover'></img>
+            </Fade>
             <div className='content'>
+                <Fade bottom>
                 <img alt="hi" src={logo} className='logo'></img>
+                </Fade>
                 <AboutUsContent/>
             </div>
             <hr></hr>
             <br></br>
             <div className='Team'>
                 <div className='our'>
-                    <h1>Meet The Team </h1>
+                    <Fade bottom>
+                        <h1>Meet The Team </h1>
+                    </Fade>
                     <br></br>
                 </div>
-                <OurTeam></OurTeam>
+                <OurTeam/>
             </div>
             <footer />
         </div>

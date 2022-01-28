@@ -10,10 +10,9 @@ const OurTeam=()=>(
             position={position}
             imageUrl={imageUrl}
             testimonial={testimonial}
-        />)}
+            />)}
 
     </div>
-
 );
 
 export default OurTeam;

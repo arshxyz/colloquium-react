@@ -5,6 +5,7 @@
     height: 90vh !important;
 }
 .dep-byline {
+    font-family: 'Montserrat', sans-serif;
     font-size: 28px !important;
     font-weight: 900 !important;
     font-family: 'Kanit' !important;
@@ -16,6 +17,7 @@
 }
 
 .dep-subheading {
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     margin: 1em;
     font-weight: 600;
@@ -23,8 +25,8 @@
     font-family: 'Poppins';
 }
 .dep-intro {
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
-    font-family: sans-serif;
     font-weight: lighter;
     color: white;
 }
@@ -38,11 +40,12 @@
 
 .achievements-title{
     font-size: 30px;
-    font-family: 'Poppins';
+    font-family: 'Montserrat', sans-serif;
+
 }
 .achievement-text {
     font-size: 18px;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
     color: white;
     margin: 1em 0 1em 0 !important;
@@ -54,11 +57,13 @@
 }
 
 .memName {
+    font-family: 'Montserrat', sans-serif;
     margin-top: 1em !important;
     font-weight: 600;
     font-size: 20px;
 }
 .memDesignation {
+    font-family: 'Montserrat', sans-serif;
     margin-top: 0.5em !important;
     font-size: 18px;
 }
