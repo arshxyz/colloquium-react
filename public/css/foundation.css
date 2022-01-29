@@ -1,19 +1,5 @@
 @charset "UTF-8";
-/**
- * Foundation for Sites by ZURB
- * Version 6.3.0
- * foundation.zurb.com
- * Licensed under MIT Open Source
- */
-/*! normalize-scss | MIT/GPLv2 License | bit.ly/normalize-scss */
-/* Document
-       ========================================================================== */
-/**
-     * 1. Change the default font family in all browsers (opinionated).
-     * 2. Correct the line height in all browsers.
-     * 3. Prevent adjustments of font size after orientation changes in
-     *    IE on Windows Phone and in iOS.
-     */
+
 html {
   font-family: sans-serif;
   /* 1 */
@@ -24,11 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 3 */ }
 
-/* Sections
-       ========================================================================== */
-/**
-     * Remove the margin in all browsers (opinionated).
-     */
+
 
             /*scrollbar*/
 
@@ -2501,6 +2483,12 @@ select {
   -o-transition: all 0.3s ease-out;
 }
 
+.vv{
+  margin-left: -30%;
+}
+
+
+
 
 /* media queries */
 
@@ -2524,7 +2512,8 @@ select {
 
   .button1{
     margin-left: 3%;
-    width: 190%;
+    width: 200%;
+    font-size: 0.7rem;
   }
 
 
@@ -2573,6 +2562,12 @@ select {
   .event-image {
     vertical-align: top;
   }
+
+  .spc{
+    width: 70%;
+    margin-left: 15%;
+  }
+
 }
 /*end*/
 
@@ -2616,12 +2611,12 @@ select {
 
 @media only screen and (max-width: 510px){
   .banner h1{
-    margin-top: 20%;
+    margin-top: 15%;
     font-size: 12vw;
   }
 
   .ggs{
-    font-size: 1.2rem !important;
+    font-size: 1.1rem !important;
   }
 
   .ssj{
