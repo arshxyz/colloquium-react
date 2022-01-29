@@ -25,7 +25,7 @@ function AboutUsContent(){
             Debating Society of NSUT provides people with a platform to shed their 
             inhibitions and learn the art of expressing themselves. One of the most 
             renowned debating societies in the DU circuit, it hosts literary and 
-            debating events all throughout the year that help students gain confidence
+            debating events all throughout the year that help students gain confidence.
         </p>
         </Fade>
     </div>
