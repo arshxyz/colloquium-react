@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function dept(){
     return(
@@ -21,7 +22,7 @@ function dept(){
       key essentials of it.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./PD">Learn More!</Link></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -44,7 +45,7 @@ function dept(){
        alike, voicing your opinions, moulding and adapting ideas, analyzing, strategizing and optimizing the solutions to problems.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./MUN">Learn More!</Link></p>
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -62,7 +63,7 @@ function dept(){
       events like Thursdays At DebSoc, we train willing debaters and give 
       them a chance to try out new formats of debating each week to hone their skills.</p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -88,7 +89,7 @@ function dept(){
 
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -105,7 +106,7 @@ function dept(){
        one of the most efficient departments under Debsoc.
       </p>
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
