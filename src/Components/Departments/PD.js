@@ -1,9 +1,24 @@
-import React, {useEffect} from "react"
-import { Fade } from "react-reveal"
-import { NavBar } from "../Nav"
-import "./department.css"
-import {Grid, Divider, Avatar} from "@mui/material"
-import { Footer } from "../Footer"
+import React, {useEffect} from "react";
+import { Fade } from "react-reveal";
+import { NavBar } from "../Nav";
+import "./department.css";
+import {Grid, Divider, Avatar} from "@mui/material";
+import { Footer } from "../Footer";
+import akshita from './PD images/akshita.png';
+import arpit from './PD images/arpit.png';
+import arsh from './PD images/arsh.png';
+import charu from './PD images/charu.png';
+import kruti from './PD images/kruti.png';
+import manan from './PD images/manan.png';
+import niharika from './PD images/niharika.png';
+import paras from './PD images/paras.png';
+import rishab from './PD images/rishab.png';
+import rishi from './PD images/rishi.png';
+import saumay from './PD images/saumay.png';
+import shourya from './PD images/shourya.png';
+import stubh from './PD images/stubh.png';
+import tushar from './PD images/tushar.png';
+import khushi from './PD images/khushi.png';
 
 export const PDDepartment = () => {
 
@@ -11,12 +26,21 @@ export const PDDepartment = () => {
     window.scrollTo(0, 0);
   }, []);
   const members = [
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
-    {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"},
+    {name: "Akshita Mohil", desig: "Member, Executive Committee", img: akshita},
+    {name: "Arpit Verma", desig: "Member, Executive Committee", img: arpit },
+    {name: "Arsh Kohli", desig: "Member, Executive Committee", img: arsh},
+    {name: "Charu Taneja", desig: "Member, Executive Committee", img: charu},
+    {name: "Khushi Sahay", desig: "Member, Executive Committee", img: khushi},
+    {name: "Kruti Joshi", desig: "Member, Executive Committee", img: kruti},
+    {name: "Manan Suri", desig: "Member, Executive Committee", img: manan},
+    {name: "Niharika Upadhyaya", desig: "Member, Executive Committee", img: niharika},
+    {name: "Paras Seth", desig: "Member, Executive Committee", img: paras},
+    {name: "Rishab Agrawal", desig: "Member, Executive Committee", img: rishab},
+    {name: "Rishi Kumar Rai", desig: "Member, Executive Committee", img: rishi},
+    {name: "Saumay Dudeja", desig: "Member, Executive Committee", img: saumay},
+    {name: "Shourya Vivek Mittal", desig: "Member, Executive Committee", img: shourya},
+    {name: "Stubh Lal", desig: "Member, Executive Committee", img: stubh},
+    {name: "Tushar Garg", desig: "Member, Executive Committee", img: tushar}
   ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
