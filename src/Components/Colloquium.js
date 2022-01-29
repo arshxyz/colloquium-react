@@ -291,7 +291,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 <div className="event-card">
 
 <div className="event-info">
-    <h2 className="event-title accent-text">NSMPD</h2>
+    <h2 className="event-title accent-text ggs">NSMPD</h2>
     <p className="event-tagline"><b>Parliamentary Debate</b></p>
     <p className="event-desc">
     One of the most reputed Parliamentary Debating Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
@@ -316,7 +316,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
       alt="event" className="event-image unravel" />
   </div>
   <div className="event-info">
-    <h2 className="event-title accent-text">NSUTMUN</h2>
+    <h2 className="event-title accent-text ggs">NSUTMUN</h2>
     <p className="event-tagline"><b>Model United Nations</b></p>
     <p className="event-desc">
     The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
@@ -332,7 +332,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   <div className="event-card">
 
   <div className="event-info">
-      <h2 className="event-title accent-text">In Case You Can</h2>
+      <h2 className="event-title accent-text ggs">In Case You Can</h2>
       <p className="event-tagline"><b>The case study competition</b></p>
       <p className="event-desc">
       This Case Study Competition allows for participants to
@@ -357,7 +357,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
         alt="event" className="event-image unravel" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">International Press</h2>
+      <h2 className="event-title accent-text ggs">International Press</h2>
       <p className="event-tagline"><b>The case study competition</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -375,7 +375,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
   <div className="event-card">
   <div className="event-info">
-      <h2 className="event-title accent-text">NSMCD</h2>
+      <h2 className="event-title accent-text ggs">NSMCD</h2>
       <p className="event-tagline"><b>Conventional Debate</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -402,7 +402,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
         alt="event" className="event-image mockstonks" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">Fandemic</h2>
+      <h2 className="event-title accent-text ggs">Fandemic</h2>
       <p className="event-tagline"><b>Fan Art Based Graphic Design</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -418,7 +418,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   </div>
   <div className="event-card">
   <div className="event-info">
-      <h2 className="event-title accent-text">Drunk History</h2>
+      <h2 className="event-title accent-text ggs">Drunk History</h2>
       <p className="event-tagline"><b>Flash Fiction Writing</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -443,7 +443,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
         alt="event" className="event-image speakersession" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">A Knack for Wack</h2>
+      <h2 className="event-title accent-text ggs">A Knack for Wack</h2>
       <p className="event-tagline"><b>Poetry Writing</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous

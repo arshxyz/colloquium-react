@@ -2565,7 +2565,6 @@ select {
   }
 
   .event-title {
-    font-size: 1.2rem;
     width: 100%;
   }
   .event-desc {
@@ -2619,6 +2618,10 @@ select {
   .banner h1{
     margin-top: 20%;
     font-size: 12vw;
+  }
+
+  .ggs{
+    font-size: 1.2rem !important;
   }
 
   .align{
