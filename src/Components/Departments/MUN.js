@@ -4,6 +4,24 @@ import { NavBar } from "../Nav"
 import "./department.css"
 import {Grid, Divider, Avatar} from "@mui/material"
 import { Footer } from "../Footer"
+import aditya from "./MUN images/aditya.png"
+import anvesha from "./MUN images/anvesha.png"
+import arpita from "./MUN images/arpita.png"
+import charchit from "./MUN images/charchit.png"
+import harsh from "./MUN images/harsh.png"
+import neel from "./MUN images/neel.png"
+import parth from "./MUN images/parth.png"
+import piyush from "./MUN images/piyush.png"
+import prajeet from "./MUN images/prajeet.png"
+import pranit from "./MUN images/pranit.png"
+import rachit from "./MUN images/rachit.png"
+import rishabh from "./MUN images/rishabh.png"
+import shashank from "./MUN images/shashank.png"
+import shyamal from "./MUN images/shyamal.png"
+import siddhant from "./MUN images/siddhant.png"
+import somya from "./MUN images/somya.png"
+import vinamra from "./MUN images/vinamra.png"
+import yash from "./MUN images/yash.png"
 
 export const MUNDepartment = () => {
 
@@ -11,12 +29,29 @@ export const MUNDepartment = () => {
     window.scrollTo(0, 0);
   }, []);
     const members = [
-      {name: "Test", desig: "fdasfda", img: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"}
+      {name: "Aditya Khulbe", desig: "Member, Executive Committee", img: aditya},
+      {name: "Anvesha Kashyap", desig: "Member, Executive Committee", img: anvesha},
+      {name: "Arpita Johry", desig: "Member, Executive Committee", img: arpita},
+      {name: "Charchit Goel", desig: "Member, Executive Committee", img: charchit},
+      {name: "Harsh Kumar", desig: "Member, Executive Committee", img: harsh},
+      {name: "Neel Taneja", desig: "Member, Executive Committee", img: neel},
+      {name: "Parth Rohatgi", desig: "Member, Executive Committee", img: parth},
+      {name: "Piyush Sharma", desig: "Member, Executive Committee", img: piyush},
+      {name: "Prajeet Katari", desig: "Member, Executive Committee", img: prajeet},
+      {name: "Pranit Chaddha", desig: "Member, Executive Committee", img: pranit},
+      {name: "Rachit Gupta", desig: "Member, Executive Committee", img: rachit},
+      {name: "Rishabh Raj", desig: "Member, Executive Committee", img: rishabh},
+      {name: "Shashank Mishra", desig: "Member, Executive Committee", img: shashank},
+      {name: "Shyamal Jain", desig: "Member, Executive Committee", img: shyamal},
+      {name: "Siddhant Srivastava", desig: "Member, Executive Committee", img: siddhant},
+      {name: "Somya Chauhan", desig: "Member, Executive Committee", img: somya},
+      {name: "Vinamra Harkar", desig: "Member, Executive Committee", img: vinamra},
+      {name: "Yash Mudgil", desig: "Member, Executive Committee", img: yash},
     ]
     const lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius quam ut magna ultricies pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius";
     const achievements = [
-    {title: "57 Individual Awards", text: "Content"},
-    {title: "3 Best Delegations", text:"Content goes here"},
+    {title: "57 Individual Awards", text: "Conquered biggest MUN circuits including IIT-D, Thapar, Stockholm and many more."},
+    {title: "3 Best Delegations", text:"At Ramjas MUN, Quintessence MUN and Thapar MUN."},
     ]
     return (
         <>
