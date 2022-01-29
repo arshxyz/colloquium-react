@@ -6,13 +6,13 @@ function dept(){
         <div>
             <section class="dept-section" id="wb3">
 
-<h1 class="events-title accent-text" style={{textAlign: 'center', }}>
+<h1 class="events-title accent-text ssj" style={{textAlign: 'center', }}>
   <span class="stroke-text-white" style={{color: 'white'}} >Our </span>Departments
 </h1>
 <div class="event-card-wrapper">
   <div class="event-card">
   <div class="event-info">
-      <h2 class="event-title accent-text">Parliamentary Debating</h2>
+      <h2 class="event-title accent-text crt">Parliamentary Debating</h2>
       <p class="event-tagline"><b>“Ponder, propose, parley, persuade and procure with prudence”</b></p>
       <p class="event-desc">
       The Parliamentary Debating Team at NSUT is the epitome of tenacity 
@@ -21,8 +21,13 @@ function dept(){
       training sessions and active participation in tournaments are some 
       key essentials of it.
       </p>
+<<<<<<< HEAD
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./PD">Learn More!</Link></p>
+=======
+      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+>>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -36,7 +41,7 @@ function dept(){
       <img src="./images/dept/mun_card.png" alt="event" class="event-image bellwether" />
     </div>
     <div class="event-info">
-      <h2 class="event-title accent-text">Model United Nations</h2>
+      <h2 class="event-title accent-text crt">Model United Nations</h2>
       <p class="event-tagline"><b>“An abode for the spirited and the bold who wish to question everything.”</b></p>
       <p class="event-desc">
       Being adjudged as the best delegation in over half the conferences it attends,
@@ -44,8 +49,13 @@ function dept(){
        but to organize conferences, learning to work with your peers, juniors and seniors 
        alike, voicing your opinions, moulding and adapting ideas, analyzing, strategizing and optimizing the solutions to problems.
       </p>
+<<<<<<< HEAD
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./MUN">Learn More!</Link></p>
+=======
+      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+>>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -53,7 +63,7 @@ function dept(){
   <div class="event-card">
 
   <div class="event-info">
-      <h2 class="event-title accent-text">General Debating</h2>
+      <h2 class="event-title accent-text crt">General Debating</h2>
       <p class="event-tagline"><b>"Encouraging and inspiring minds to speak what they stand for, what they believe in, one NSUTian at a time."</b></p>
       <p class="event-desc">
       The General Department has always stood by the students, especially the 
@@ -62,8 +72,13 @@ function dept(){
       are always open to anybody who is willing to learn and grow. With 
       events like Thursdays At DebSoc, we train willing debaters and give 
       them a chance to try out new formats of debating each week to hone their skills.</p>
+<<<<<<< HEAD
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
       {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
+=======
+      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+>>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -80,7 +95,7 @@ function dept(){
         alt="event" class="event-image unravel" />
     </div>
     <div class="event-info">
-      <h2 class="event-title accent-text">Literary Department</h2>
+      <h2 class="event-title accent-text crt">Literary Department</h2>
       <p class="event-tagline"><b>"We’re a group of readers, thinkers and writers. So open a book, and turn the page"</b></p>
       <p class="event-desc">
       The Page Turners was founded in 2015, as a group of people enthusiastic about reading and writing. It has 
@@ -88,8 +103,13 @@ function dept(){
        conducts regular activities and maintains a stream of consistent, diverse literary content through its online presence.
 
       </p>
+<<<<<<< HEAD
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
       {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
+=======
+      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+>>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -97,7 +117,7 @@ function dept(){
 
   <div class="event-card">
   <div class="event-info">
-      <h2 class="event-title accent-text">Technology & Design</h2>
+      <h2 class="event-title accent-text crt">Technology & Design</h2>
       <p class="event-tagline"><b>"Technology is intelligence exemplified, while Design is intelligence made visible"</b></p>
       <p class="event-desc">
       The Technology and Design Department of DebSoc NSUT works to fullfill every Technological demands
@@ -105,8 +125,13 @@ function dept(){
       managing the website for the society, the Tech&Design department is arguably
        one of the most efficient departments under Debsoc.
       </p>
+<<<<<<< HEAD
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
       {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
+=======
+      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
+      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
+>>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>

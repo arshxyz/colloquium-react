@@ -18,7 +18,7 @@ function Colloquium(){
         <>
         <NavBar />
          {/* <header className="header navbar">
-<a href="#wb1">
+<a target="_blank" href="#wb1">
      
      <h2 className='headerimg' style={{color: '#000'}}>DebSoc<span style={{color: '#c3152c'}}>.</span></h2>
      </a>
@@ -33,24 +33,24 @@ function Colloquium(){
 <div className="cross">X</div>
 
     <ul>
-        <a href="#wb1"><li className="hov">Home</li></a><br/>
-        <a href="#wb2"><li className="hov">About</li></a><br/>
-        <a href="#wb3"><li className="hov">Events</li></a><br/>
-        <a href="#wb4"><li className="hov">Sponsors</li></a><br/>
-        <a href="#wb5"><li className="hov">Gallery</li></a>
-        <a href="#wb6"><li className="hov">Team</li></a>
-        <a href="#wb7"><li className="hov">Contact</li></a><br/>
+        <a target="_blank" href="#wb1"><li className="hov">Home</li></a><br/>
+        <a target="_blank" href="#wb2"><li className="hov">About</li></a><br/>
+        <a target="_blank" href="#wb3"><li className="hov">Events</li></a><br/>
+        <a target="_blank" href="#wb4"><li className="hov">Sponsors</li></a><br/>
+        <a target="_blank" href="#wb5"><li className="hov">Gallery</li></a>
+        <a target="_blank" href="#wb6"><li className="hov">Team</li></a>
+        <a target="_blank" href="#wb7"><li className="hov">Contact</li></a><br/>
 
   </ul>
 </div>
     <ul className="headerul">
-        <a href="#wb7"><li className="hov">Contact</li></a>
-        <a href="#wb6"><li className="hov">Team</li></a>
-        <a href="#wb5"><li className="hov">Gallery</li></a>
-        <a href="#wb4"><li className="hov">Sponsors</li></a>
-        <a href="#wb3"><li className="hov">Events</li></a>
-        <a href="#wb2"><li className="hov">About</li></a>
-        <a href="#wb1"><li className="hov">Home</li></a>
+        <a target="_blank" href="#wb7"><li className="hov">Contact</li></a>
+        <a target="_blank" href="#wb6"><li className="hov">Team</li></a>
+        <a target="_blank" href="#wb5"><li className="hov">Gallery</li></a>
+        <a target="_blank" href="#wb4"><li className="hov">Sponsors</li></a>
+        <a target="_blank" href="#wb3"><li className="hov">Events</li></a>
+        <a target="_blank" href="#wb2"><li className="hov">About</li></a>
+        <a target="_blank" href="#wb1"><li className="hov">Home</li></a>
     </ul>
 </header> */}
 
@@ -79,15 +79,15 @@ function Colloquium(){
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-6">
                             
-                            <p className="intro-desc" style={{color: '#f8f8f8', width: '85%'}}>The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
-Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- Colloquium.<br/>
-Despite all restrictions that prevail, this edition of Colloquium promises to be as great as it has been in the past, adding more to the legacy it already has. 
+                            <p className="intro-desc align" style={{color: '#f8f8f8', width: '85%'}}>The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
+Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- <b style={{color: '#c3152c'}}>Colloquium.</b><br/>
+Despite all restrictions that prevail, this edition of <b style={{color: '#c3152c'}}>Colloquium</b> promises to be as great as it has been in the past, adding more to the legacy it already has. 
 
  </p>
                                 
                     {/* <div className="section one">
    <div id="button">
-     <a href="#wb3" style={{color: '#f6f6f6'}}>Start</a>
+     <a target="_blank" href="#wb3" style={{color: '#f6f6f6'}}>Start</a>
       <div className="ring one"></div>
       <div className="ring two"></div>
       <div className="ring three"></div>
@@ -156,7 +156,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className=" section-title" style={{color:'black'}}>NSMPD</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/lecture_series.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -167,7 +167,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>NSUTMUN</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Model United Nations </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/instaseed.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -178,7 +178,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>In Case You Can</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/unravel.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +189,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>IP</span><span className="event-address" style={{color: 'rgb(0, 0, 0)', padding: '10'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/global_strategy.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -200,7 +200,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Contendere</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate</span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/startup_combat.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -211,7 +211,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Fandemic</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/>Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +222,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>Drunk History</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -234,7 +234,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                     <span className="section-title " style={{color:'black'}}>A Knack for Wack</span><span className="event-address" style={{color: 'rgb(0, 0, 0)'}}><br/> Parliamentary Debate </span>
                                     <br/>
                                     <br/>
-                                    <p><a target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
+                                    <p><a target="_blank" target="_blank" href="events/bellwether.html" className="button radius" data-open="contact-form" style={{backgroundColor:  '#c3152c'}}style={{color: '#fff !important'}}>Coming Soon</a></p>
                                 </div>
                             </div>
                         </div>
@@ -251,7 +251,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   <span className="stroke-text-white" style={{color: 'white'}}>Explore </span>Events
 </h1>
 <div className="event-card-wrapper">
-  <div className="event-card">
+  {/* <div className="event-card">
   <div className="event-info">
       <h2 className="event-title accent-text">NSMPD</h2>
       <p className="event-tagline"><b>Parliamentary Debate</b></p>
@@ -263,7 +263,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                                                 logic and public speaking.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -283,14 +283,56 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
       The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important', marginLeft: '-65%'}}>Register</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important', marginLeft: '-65%'}}>Register</a>
                        </div>
     </div>
+  </div> */}
+
+<div className="event-card">
+
+<div className="event-info">
+    <h2 className="event-title accent-text ggs">NSMPD</h2>
+    <p className="event-tagline"><b>Parliamentary Debate</b></p>
+    <p className="event-desc">
+    One of the most reputed Parliamentary Debating Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
+                                                                participants, NSMPD witnesses the best of Delhi Circuit debating upon a
+                                                                plethora of topics, the debate is a beautiful profusion of rationale,
+                                                                logic and public speaking.
+    </p>
+    <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+                     </div>
   </div>
+  <div className="event-img-wrapper">
+    <img src="./images/events/pd.png" alt="event" className="event-image startupcombat" />
+  </div>
+
+</div>
+
+<div className="event-card">
+  <div className="event-img-wrapper">
+    <img
+      src="./images/events/mun.png"
+      alt="event" className="event-image unravel" />
+  </div>
+  <div className="event-info">
+    <h2 className="event-title accent-text ggs">NSUTMUN</h2>
+    <p className="event-tagline"><b>Model United Nations</b></p>
+    <p className="event-desc">
+    The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
+
+    </p>
+    <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+<a target="_blank" className="button1 a" href="https://forms.gle/6KareKMn25go1GPR7"style={{color: '#fff !important'}}>Register</a>
+                     </div>
+  </div>
+</div>
+
+
   <div className="event-card">
 
   <div className="event-info">
-      <h2 className="event-title accent-text">In Case You Can</h2>
+      <h2 className="event-title accent-text ggs">In Case You Can</h2>
       <p className="event-tagline"><b>The case study competition</b></p>
       <p className="event-desc">
       This Case Study Competition allows for participants to
@@ -299,7 +341,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                                                                 correct blend of logic, rigour and academic brilliance to ace the competition.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -315,7 +357,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         alt="event" className="event-image unravel" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">International Press</h2>
+      <h2 className="event-title accent-text ggs">International Press</h2>
       <p className="event-tagline"><b>The case study competition</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -326,14 +368,14 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
 
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
 
   <div className="event-card">
   <div className="event-info">
-      <h2 className="event-title accent-text">NSMCD</h2>
+      <h2 className="event-title accent-text ggs">NSMCD</h2>
       <p className="event-tagline"><b>Conventional Debate</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -343,7 +385,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -360,7 +402,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         alt="event" className="event-image mockstonks" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">Fandemic</h2>
+      <h2 className="event-title accent-text ggs">Fandemic</h2>
       <p className="event-tagline"><b>Fan Art Based Graphic Design</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -370,13 +412,13 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
   <div className="event-card">
   <div className="event-info">
-      <h2 className="event-title accent-text">Drunk History</h2>
+      <h2 className="event-title accent-text ggs">Drunk History</h2>
       <p className="event-tagline"><b>Flash Fiction Writing</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -386,7 +428,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>    <div className="event-img-wrapper">
       <img
@@ -401,7 +443,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         alt="event" className="event-image speakersession" />
     </div>
     <div className="event-info">
-      <h2 className="event-title accent-text">A Knack for Wack</h2>
+      <h2 className="event-title accent-text ggs">A Knack for Wack</h2>
       <p className="event-tagline"><b>Poetry Writing</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
@@ -411,7 +453,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
@@ -503,7 +545,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                     <div className="row">
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery1.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery1.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery1.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search" ></i></span>
                         </a>
@@ -511,7 +553,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery2.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery2.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery2.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
@@ -519,7 +561,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery3.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery3.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery3.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
@@ -527,7 +569,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery4.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery4.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery4.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
@@ -535,7 +577,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery5.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery5.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery5.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
@@ -543,7 +585,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         </div>
                         <div className="col-md-4 col-sm-4 col-xs-6">
                             <div className="gallery-container">
-                                <a className="gallery-popup" href="images/gallery/gallery6.jpg">
+                                <a target="_blank" className="gallery-popup" href="images/gallery/gallery6.jpg">
                              <img alt="" className="img-responsive" src="images/gallery/gallery6.jpg" />
                             <span className="gallery-icon" style={{backgroundColor:  '#c3152c'}}><i className="fa fa-search"></i></span>
                         </a>
@@ -571,9 +613,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -590,9 +632,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -611,9 +653,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -632,9 +674,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -653,9 +695,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -674,9 +716,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -695,9 +737,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -716,9 +758,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -737,9 +779,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -758,9 +800,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -779,9 +821,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -800,9 +842,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -821,9 +863,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -842,9 +884,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
     
       <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -911,7 +953,7 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                             <i className="fa fa-map-marker" style={{color:'#c3152c'}}>&nbsp;</i>
                             <div className="contact-info-box-content">
                                 <h4 style={{color: '#fff !important'}}>Address: </h4>
-                                <p>Azad Hind Fauz Marg, Sector-3,Dwarka, New Delhi-110078</p>
+                                <p>Azad Hind Fauz Marg, Sector-3<br/>Dwarka, New Delhi-110078</p>
                             </div>
                         </div>
                     </div>
@@ -935,7 +977,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
                         <i className="fa fa-phone" style={{color:'#c3152c'}}>&nbsp;</i>
                         <div className="contact-info-box-content">
                             <h4 style={{color: '#fff !important'}}>Phone: </h4>
-                            <p>Arjun Singh: +91-8979254865</p>
+                            <p>Arjun Singh: +91-8979254865<br/>
+                            Rahul Sharma: +91-9646232017
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -947,9 +991,9 @@ Despite all restrictions that prevail, this edition of Colloquium promises to be
             <div className="col-md-12">
                     <div id="contact-social" className="footer-social">
                         <ul>
-                            <li><a href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                            <li><a href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
                         </ul>
                     </div>
                     <div className="copyright-info">
