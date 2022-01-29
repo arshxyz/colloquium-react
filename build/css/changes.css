@@ -1,0 +1,9 @@
+.reg {
+    margin-bottom: 10px;
+    background-color: #f8981c;
+    border-color: #f8981c;
+  }
+  
+.reg:hover {
+      background-color: black;
+    }
