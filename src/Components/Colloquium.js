@@ -254,7 +254,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   {/* <div className="event-card">
   <div className="event-info">
       <h2 className="event-title accent-text">NSMPD</h2>
-      <p className="event-tagline"><b>Parliamentary Debate</b></p>
+      <p className="event-tagline spc"><b>Parliamentary Debate</b></p>
       <p className="event-desc">
       One of the most reputed Parliamentary Debating
                                                                 Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
@@ -263,7 +263,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
                                                                 logic and public speaking.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -278,12 +278,12 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     <br /><br />
     <div className="event-info">
       <h2 className="event-title accent-text">NSUTMUN</h2>
-      <p className="event-tagline"><b>Model United Nation</b></p>
+      <p className="event-tagline spc"><b>Model United Nation</b></p>
       <p className="event-desc">
       The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important', marginLeft: '-65%'}}>Register</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important', marginLeft: '-65%'}}>Register</a>
                        </div>
     </div>
   </div> */}
@@ -292,12 +292,12 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
 <div className="event-info">
     <h2 className="event-title accent-text ggs">NSUTMUN</h2>
-    <p className="event-tagline"><b>Model United Nations</b></p>
+    <p className="event-tagline spc"><b>Model United Nations</b></p>
     <p className="event-desc">
     The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
     </p>
     <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-<a target="_blank" className="button1 a" href="https://forms.gle/6KareKMn25go1GPR7"style={{color: '#fff !important'}}>Register</a>
+<a target="_blank" className="button1 a vv" href="https://forms.gle/6KareKMn25go1GPR7"style={{color: '#fff !important'}}>Register For EB</a>
                      </div>
   </div>
   <div className="event-img-wrapper">
@@ -314,7 +314,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   </div>
   <div className="event-info">
     <h2 className="event-title accent-text ggs">NSMPD</h2>
-    <p className="event-tagline"><b>Parliamentary Debate</b></p>
+    <p className="event-tagline spc"><b>Parliamentary Debate</b></p>
     <p className="event-desc">
     One of the most reputed Parliamentary Debating
                                                                 Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
@@ -324,7 +324,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
     </p>
     <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+<a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                      </div>
   </div>
 </div>
@@ -333,16 +333,12 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 <div className="event-card">
   <div className="event-info">
       <h2 className="event-title accent-text ggs">NSMCD</h2>
-      <p className="event-tagline"><b>Conventional Debate</b></p>
+      <p className="event-tagline spc"><b>Conventional Debate</b></p>
       <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      Colloquium’22 brings to you the Netaji Subhas Memorial Conventional Debate Competition. Conventional debates are a sophisticated platform for discussion and deliberation, where opposing views on topics of social, political and economic pertinence clash. They embrace the freedom of opinion in its true spirit and we intend NSMCD to be no different. It will be an opportunity for all prolific speakers to showcase not only their eloquence and oratory prowess but also their ability to analyse the topic comprehensively.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
@@ -359,7 +355,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     </div>
     <div className="event-info">
       <h2 className="event-title accent-text ggs">International Press</h2>
-      <p className="event-tagline"><b>The case study competition</b></p>
+      <p className="event-tagline spc"><b>The case study competition</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
@@ -369,7 +365,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
@@ -378,15 +374,12 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
 <div className="event-info">
     <h2 className="event-title accent-text ggs">In Case You Can</h2>
-    <p className="event-tagline"><b>The case study competition</b></p>
+    <p className="event-tagline spc"><b>The case study competition</b></p>
     <p className="event-desc">
-    This Case Study Competition allows for participants to
-                                                              deliberate and analyse rigorously selected Cases, which tickle the
-                                                              entrepreneurial mind and tests your business acumen. Participants require the
-                                                              correct blend of logic, rigour and academic brilliance to ace the competition.
+    The Case Study event, ‘In Case You Can’ seeks to stimulate immense brainstorming and intensive business-minded thinking through situations, which pose themselves as potential challenges in the dynamic environment. The thrilling event culminates with the formulation of impromptu action-oriented solutions. To add to this, we will be partnering with an actual company that would be interested in having their name be present in the case.
     </p>
     <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+<a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                      </div>
   </div>
   <div className="event-img-wrapper">
@@ -405,7 +398,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     </div>
     <div className="event-info">
       <h2 className="event-title accent-text ggs">Fandemic</h2>
-      <p className="event-tagline"><b>Fan Art Based Graphic Design</b></p>
+      <p className="event-tagline spc"><b>Fan Art Based Graphic Design</b></p>
       <p className="event-desc">
         A tinge of MUN amalgamated with the wondrous
         concept of entrepreneurship is what the event was all
@@ -414,23 +407,20 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
         countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
   <div className="event-card">
   <div className="event-info">
       <h2 className="event-title accent-text ggs">Drunk History</h2>
-      <p className="event-tagline"><b>Flash Fiction Writing</b></p>
+      <p className="event-tagline spc"><b>Flash Fiction Writing</b></p>
       <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      Imagine an incident in history and then imagine a joke. What if both were to be clubbed together to manifest a story! The individual will be given a historic event which they have to present in the quirkiest manner following flash fiction format with a word limit of 100 words. A chance for your inner comic and history buff to come together and whip up a riot of laughter and creativity.
+
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>    <div className="event-img-wrapper">
       <img
@@ -446,16 +436,12 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     </div>
     <div className="event-info">
       <h2 className="event-title accent-text ggs">A Knack for Wack</h2>
-      <p className="event-tagline"><b>Poetry Writing</b></p>
+      <p className="event-tagline spc"><b>Poetry Writing</b></p>
       <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      If you have a knack for words and can make them flow then Knack For Wack is the event for you. Knack For Wack is the Poetry Writing event under colloquium. The individual will be given a list of prompts, 3 of them are to be incorporated into the piece they write.This is the perfect opportunity for all the budding poets to channelise their inner creativity and whip up a literary masterpiece.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+  <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
   </div>
@@ -615,9 +601,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/arjun-singh-787a3319a/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -634,9 +620,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   </div>
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/pragati-kumar/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -655,9 +641,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/nandnisrivastava/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -676,9 +662,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/kartikeya-rai-33ab29197/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -697,9 +683,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/anavchaudhary/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -718,9 +704,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/its-gupta-ananya/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -739,9 +725,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/shrirang-khachane-b354631b6/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -760,9 +746,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/sai-ganesh-tadimeti-b3840a1ba/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -781,9 +767,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/avilgoel/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -802,9 +788,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/rahul-sharma-a420651a7/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -823,9 +809,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/yajas-sardana/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -844,9 +830,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/kanav-dwivedi/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -865,9 +851,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
         <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/aditi-gupta-12082001/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -886,9 +872,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     
       <div id="contact-social" className="footer-social middle">
                                 <ul>
-                                    <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                                    
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/pranay-kothari-/"><i className="fa fa-linkedin btn2"></i></a></li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -993,9 +979,11 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
             <div className="col-md-12">
                     <div id="contact-social" className="footer-social">
                         <ul>
-                            <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
-                            <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                            
+                        <li><a target="_blank" href="https://www.facebook.com/DebsocNSUT/"><i className="fa fa-facebook btn2"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/debating-society-of-nsit/mycompany/"><i className="fa fa-linkedin btn2"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/colloquiumnsut/"><i className="fa fa-instagram btn2"></i></a></li>
+                           
                         </ul>
                     </div>
                     <div className="copyright-info">

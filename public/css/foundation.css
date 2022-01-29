@@ -2501,6 +2501,12 @@ select {
   -o-transition: all 0.3s ease-out;
 }
 
+.vv{
+  margin-left: -30%;
+}
+
+
+
 
 /* media queries */
 
@@ -2524,7 +2530,8 @@ select {
 
   .button1{
     margin-left: 3%;
-    width: 190%;
+    width: 200%;
+    font-size: 0.7rem;
   }
 
 
@@ -2573,6 +2580,12 @@ select {
   .event-image {
     vertical-align: top;
   }
+
+  .spc{
+    width: 70%;
+    margin-left: 15%;
+  }
+
 }
 /*end*/
 
@@ -2616,12 +2629,12 @@ select {
 
 @media only screen and (max-width: 510px){
   .banner h1{
-    margin-top: 20%;
+    margin-top: 15%;
     font-size: 12vw;
   }
 
   .ggs{
-    font-size: 1.2rem !important;
+    font-size: 1.1rem !important;
   }
 
   .ssj{
