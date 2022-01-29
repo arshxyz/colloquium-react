@@ -2461,7 +2461,7 @@ select {
   background-image: -webkit-linear-gradient(106deg, #E5474B 50%, #c43d40 50%);
   background-image: linear-gradient(-16deg, #E5474B 50%, #c43d40 50%);
   display: inline-block;
-  color: #fff;
+  color: #fff !important;
   text-transform: uppercase;
   text-decoration: none !important;
   font-size: 1.1vw;
@@ -2475,7 +2475,7 @@ select {
 }
 .button1:after {
   content: "";
-  background: #fff;
+  background: #fff !important;
   height: 1px;
   width: 15%;
   display: block;
@@ -2565,12 +2565,7 @@ select {
   }
 
   .event-title {
-<<<<<<< HEAD
     font-size: 1.2rem;
-=======
-    font-size: 45px;
-    font-weight: 500;;
->>>>>>> 0cbb5b2bd16b0173fb8ee6272247b31645db0623
     width: 100%;
   }
   .event-desc {
@@ -2619,6 +2614,25 @@ select {
 }
 
 } 
+
+@media only screen and (max-width: 510px){
+  .banner h1{
+    margin-top: 20%;
+    font-size: 12vw;
+  }
+
+  .align{
+    margin-left: 5.5%;
+  }
+
+  .crt{
+    font-size: 1.2rem !important;
+    line-height: 1.5 !important;
+  }
+  .lfft{
+    margin-left: 35% !important;
+  }
+}
 
 #owl-demo .item_owl{
   margin: 3px;
