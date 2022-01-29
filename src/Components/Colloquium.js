@@ -357,12 +357,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
       <h2 className="event-title accent-text ggs">International Press</h2>
       <p className="event-tagline spc"><b>The case study competition</b></p>
       <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
-
+      The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
+Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- <b style={{color: '#c3152c'}}>Colloquium.</b><br/>
+Despite all restrictions that prevail, this edition of <b style={{color: '#c3152c'}}>Colloquium</b> promises to be as great as it has been in the past, adding more to the legacy it already has. 
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
   <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
@@ -400,11 +397,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
       <h2 className="event-title accent-text ggs">Fandemic</h2>
       <p className="event-tagline spc"><b>Fan Art Based Graphic Design</b></p>
       <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
+      The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
+Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- <b style={{color: '#c3152c'}}>Colloquium.</b><br/>
+Despite all restrictions that prevail, this edition of <b style={{color: '#c3152c'}}>Colloquium</b> promises to be as great as it has been in the past, adding more to the legacy it already has. 
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
   <a target="_blank" className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
