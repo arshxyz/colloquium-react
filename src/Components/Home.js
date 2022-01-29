@@ -111,7 +111,7 @@ function Home(){
             <div className="container">
                 <div className="row animate-box">
                     <div className="col-md-8 col-md-offset-2 text-'center' fh5co-heading">
-                        <h2 style={{textAlign: "center", marginTop:'40px'}}>From the Presidents' Desk</h2>
+                        <h2 style={{textAlign: "center", marginTop:'40px', }}>From the Presidents' Desk</h2>
                     </div>
                 </div>
                 <div className="row">
@@ -138,8 +138,7 @@ function Home(){
                     <img src="./images/team/Rahul.jpg" className="presidents" style={{display: 'block', marginLeft: 'auto', marginRight: 'auto'}}/>
                     <h3>A Revolutionary Journey</h3>
        <p>DebSoc NSUT is the breath of fresh air that you need in a world 
-         masqueraded by an obsession over numbers and algorithms. I can tr
-         uly say that your journey with DebSoc would revolutionise your perso
+         masqueraded by an obsession over numbers and algorithms.<br/> I can truly say that your journey with DebSoc would revolutionise your perso
          nality and change your perspective towards things for the good.<br/> DebSoc has
           given me a community with whom I’ll 
          share a bond for the rest of my life and countless memories that will always be embedded in my heart.</p>

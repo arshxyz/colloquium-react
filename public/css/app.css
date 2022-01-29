@@ -98,6 +98,16 @@ p {
     text-align: justify;
 }   
 
+.p1{
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif; 
+    text-rendering: optimizelegibility;
+    text-align: justify;
+}
+
 section ul {
     color: #556677;
     font-size: 1rem;

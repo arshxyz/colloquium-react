@@ -481,6 +481,10 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
 
+  .event-info p{
+    margin-top: 0;
+  }
+
 textarea {
   height: auto;
   min-height: 50px;
@@ -1389,7 +1393,7 @@ h6 {
   h2 {
     font-size: 2.5rem; }
   h3 {
-    font-size: 1.9375rem; }
+    font-size: 1.9rem; }
   h4 {
     font-size: 1.5rem; 
 	  line-height: 2;
@@ -2378,7 +2382,8 @@ select {
 }
 .events-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5em;
+  font-size: 3.4375rem;
+  font-weight: 700;
   text-align: center;
   color: rgb(195, 21, 44);
 }
@@ -2560,7 +2565,12 @@ select {
   }
 
   .event-title {
+<<<<<<< HEAD
     font-size: 1.2rem;
+=======
+    font-size: 45px;
+    font-weight: 500;;
+>>>>>>> 0cbb5b2bd16b0173fb8ee6272247b31645db0623
     width: 100%;
   }
   .event-desc {

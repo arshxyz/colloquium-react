@@ -27,7 +27,17 @@
     letter-spacing: 1.5px;
     color:white;
     text-align: center;
+    padding: 0;
 }
+.position1{
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    color:white;
+    text-align: center;
+    padding: 0;
+}
+
 .position p{
     margin:0px;
 }
