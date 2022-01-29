@@ -537,7 +537,7 @@
 
 	#main-slide .item,
 	.page-slider .item{
-		min-height: 550px;
+		min-height: 40vh;
 		background-position: 70% 50%;
 	}
 

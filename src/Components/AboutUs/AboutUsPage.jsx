@@ -18,9 +18,23 @@ function AboutUs() {
 	return (
 		<div className="bg">
 			<NavBar />
-			<Fade>
-				<img alt="hi" src={cover} className="cover" />
-			</Fade>
+			<div id="main-slide">
+                       <div className="carousel-inner">
+                <div className="item active" style={{backgroundImage: 'url(images/hero-area/dep.png)', zIndex: 1}} id="wb1">
+                <div className="row banner">
+          <div className="banner">
+            <Fade bottom>
+              <h1 >About Us</h1>
+            </Fade>
+            <Fade bottom duration={1200}>
+              <h3 className="dep-byline">Meet our Team </h3>
+            </Fade>
+            <hr />
+          </div>
+        </div>
+        </div>
+        </div>
+        </div>
 			<div className="content">
 				<Fade bottom>
 					<img alt="hi" src={logo} className="sign" />

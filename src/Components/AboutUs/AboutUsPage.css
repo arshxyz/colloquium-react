@@ -1,11 +1,8 @@
 .bg{
     background-color: black;
 }
-.cover{
-    height: 90vh;
-    background-repeat:no-repeat;
-    background-size: cover;
-    width: 100%;
+#wb1{
+    height:90vh;
 }
 .content{
     margin: 5%;
@@ -43,8 +40,11 @@
 }
 @media only screen and (max-width:767px)
 {
+    #wb1{
+        height:30vh;
+    }
     .cover{
-        height: 50vh;
+        height: 30vh;
     }
     .who{
         width:100%;
