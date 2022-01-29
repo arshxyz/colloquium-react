@@ -2461,7 +2461,6 @@ select {
   text-decoration: none !important;
   font-size: 1.1vw;
   position: relative;
-  max-width: 100%;
   margin-left: -45%;
   padding: 15px;
   font-family: 'Montserrat', sans-serif !important; 
@@ -2520,26 +2519,19 @@ select {
 
   .button1{
     margin-left: 3%;
+    width: 190%;
   }
-  .events-section::before,
-  .events-section::after{
-    height: 70px;
-  }
+
 
   .events-section::before{
     top: -70px;
   }
 
-  .events-section::after {
-    bottom: -70px;
-  }
 
-  .events-section {
-    margin-bottom: 70px;
-  }
 
-  .events-section::before,
-  .events-section::after {
+
+  .events-section::before
+ {
     height: 70px;
   }
 
@@ -2547,14 +2539,6 @@ select {
     top: -70px;
   }
 
-  .events-section::after {
-    bottom: -70px;
-  }
-
-
-  .events-section {
-    margin-bottom: 70px;
-  }
 
   .event-card {
     padding: 0 0.8em;
@@ -2565,6 +2549,9 @@ select {
    
   }
 
+  .event-tagline{
+    text-align: center;
+  }
   .event-info {
     order: 2;
     text-align: center;
@@ -2573,7 +2560,7 @@ select {
   }
 
   .event-title {
-    font-size: 1.2em;
+    font-size: 1.2rem;
     width: 100%;
   }
   .event-desc {
@@ -2586,7 +2573,7 @@ select {
 /*end*/
 
  .banner h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 9vw/1.1em ;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -2610,6 +2597,18 @@ select {
    border-color: #2F2D2E;
    border-color: rgba(150, 150, 150, .1);
 }
+
+@media only screen and (max-width: 767px){
+.banner h1{
+  margin-top: 35%;
+  font-size: 12vw;
+}
+
+.event-tagline{
+  line-height: 1;
+}
+
+} 
 
 #owl-demo .item_owl{
   margin: 3px;
