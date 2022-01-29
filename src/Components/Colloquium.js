@@ -291,20 +291,17 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 <div className="event-card">
 
 <div className="event-info">
-    <h2 className="event-title accent-text ggs">NSMPD</h2>
-    <p className="event-tagline"><b>Parliamentary Debate</b></p>
+    <h2 className="event-title accent-text ggs">NSUTMUN</h2>
+    <p className="event-tagline"><b>Model United Nations</b></p>
     <p className="event-desc">
-    One of the most reputed Parliamentary Debating Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
-                                                                participants, NSMPD witnesses the best of Delhi Circuit debating upon a
-                                                                plethora of topics, the debate is a beautiful profusion of rationale,
-                                                                logic and public speaking.
+    The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
     </p>
     <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+<a target="_blank" className="button1 a" href="https://forms.gle/6KareKMn25go1GPR7"style={{color: '#fff !important'}}>Register</a>
                      </div>
   </div>
   <div className="event-img-wrapper">
-    <img src="./images/events/pd.png" alt="event" className="event-image startupcombat" />
+    <img src="./images/events/mun.png" alt="event" className="event-image startupcombat" />
   </div>
 
 </div>
@@ -312,44 +309,48 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 <div className="event-card">
   <div className="event-img-wrapper">
     <img
-      src="./images/events/mun.png"
+      src="./images/events/pd.png"
       alt="event" className="event-image unravel" />
   </div>
   <div className="event-info">
-    <h2 className="event-title accent-text ggs">NSUTMUN</h2>
-    <p className="event-tagline"><b>Model United Nations</b></p>
+    <h2 className="event-title accent-text ggs">NSMPD</h2>
+    <p className="event-tagline"><b>Parliamentary Debate</b></p>
     <p className="event-desc">
-    The biggest model UN Conference in the Delhi Circuit. With hand-picked committees thought after intense deliberations, over 350 Delegates, and an esteemed Executive Board Panel, the conference is the home for a plethora of discussions ranging from Indian Politics to the International Humanitarian Conditions.
+    One of the most reputed Parliamentary Debating
+                                                                Tournament in the Delhi Circuit. With a Team Cap of 32 Teams, and over 150
+                                                                participants, NSMPD witnesses the best of Delhi Circuit debating upon a
+                                                                plethora of topics, the debate is a beautiful profusion of rationale,
+                                                                logic and public speaking.
 
     </p>
     <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-<a target="_blank" className="button1 a" href="https://forms.gle/6KareKMn25go1GPR7"style={{color: '#fff !important'}}>Register</a>
+<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                      </div>
   </div>
 </div>
 
 
-  <div className="event-card">
-
+<div className="event-card">
   <div className="event-info">
-      <h2 className="event-title accent-text ggs">In Case You Can</h2>
-      <p className="event-tagline"><b>The case study competition</b></p>
+      <h2 className="event-title accent-text ggs">NSMCD</h2>
+      <p className="event-tagline"><b>Conventional Debate</b></p>
       <p className="event-desc">
-      This Case Study Competition allows for participants to
-                                                                deliberate and analyse rigorously selected Cases, which tickle the
-                                                                entrepreneurial mind and tests your business acumen. Participants require the
-                                                                correct blend of logic, rigour and academic brilliance to ace the competition.
+        A tinge of MUN amalgamated with the wondrous
+        concept of entrepreneurship is what the event was all
+        about. Entering into the shoes of a company owner, one
+        had to deal with the problems arising with different
+        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
   <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
                        </div>
     </div>
     <div className="event-img-wrapper">
-      <img src="./images/events/cs.png" alt="event" className="event-image startupcombat" />
+      <img
+        src="./images/events/cs.png"
+        alt="event" className="event-image startupcombat" />
     </div>
-
   </div>
-
   <div className="event-card">
     <div className="event-img-wrapper">
       <img
@@ -374,26 +375,27 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
   </div>
 
   <div className="event-card">
-  <div className="event-info">
-      <h2 className="event-title accent-text ggs">NSMCD</h2>
-      <p className="event-tagline"><b>Conventional Debate</b></p>
-      <p className="event-desc">
-        A tinge of MUN amalgamated with the wondrous
-        concept of entrepreneurship is what the event was all
-        about. Entering into the shoes of a company owner, one
-        had to deal with the problems arising with different
-        countries in a strategic way. Global Strategy- A crossdisciplinary contest of ‘global’ proportions.
-      </p>
-      <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-  <a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
-                       </div>
-    </div>
-    <div className="event-img-wrapper">
-      <img
-        src="./images/events/cs.png"
-        alt="event" className="event-image startupcombat" />
-    </div>
+
+<div className="event-info">
+    <h2 className="event-title accent-text ggs">In Case You Can</h2>
+    <p className="event-tagline"><b>The case study competition</b></p>
+    <p className="event-desc">
+    This Case Study Competition allows for participants to
+                                                              deliberate and analyse rigorously selected Cases, which tickle the
+                                                              entrepreneurial mind and tests your business acumen. Participants require the
+                                                              correct blend of logic, rigour and academic brilliance to ace the competition.
+    </p>
+    <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
+<a target="_blank" className="button1 a" href="index.html"style={{color: '#fff !important'}}>Coming Soon</a>
+                     </div>
   </div>
+  <div className="event-img-wrapper">
+    <img src="./images/events/cs.png" alt="event" className="event-image startupcombat" />
+  </div>
+
+</div>
+
+  
 
   <div className="event-card">
     <div className="event-img-wrapper">

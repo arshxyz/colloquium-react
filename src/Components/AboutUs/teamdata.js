@@ -82,7 +82,7 @@ const team=[
     },
     {
         id:9,
-        name:'Anav Choudhary',
+        name:'Anav Chaudhary',
         position:'Director, Model United Nations',
         imageUrl:anav,
         testimonial:'Debsoc has been a roller-coaster for me . I have learnt a lot in the past years and the experiences have been really great . Debsoc not only makes you a good debater but also helps you grow in life. It is indeed a life changing experience.'
