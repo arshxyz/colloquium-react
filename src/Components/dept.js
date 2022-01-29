@@ -1,5 +1,4 @@
 import React from "react";
-import {Link} from "react-router-dom";
 
 function dept(){
     return(
@@ -21,13 +20,8 @@ function dept(){
       training sessions and active participation in tournaments are some 
       key essentials of it.
       </p>
-<<<<<<< HEAD
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./PD">Learn More!</Link></p>
-=======
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -49,13 +43,8 @@ function dept(){
        but to organize conferences, learning to work with your peers, juniors and seniors 
        alike, voicing your opinions, moulding and adapting ideas, analyzing, strategizing and optimizing the solutions to problems.
       </p>
-<<<<<<< HEAD
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><Link to="./MUN">Learn More!</Link></p>
-=======
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -72,13 +61,8 @@ function dept(){
       are always open to anybody who is willing to learn and grow. With 
       events like Thursdays At DebSoc, we train willing debaters and give 
       them a chance to try out new formats of debating each week to hone their skills.</p>
-<<<<<<< HEAD
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
-=======
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -103,13 +87,8 @@ function dept(){
        conducts regular activities and maintains a stream of consistent, diverse literary content through its online presence.
 
       </p>
-<<<<<<< HEAD
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
-=======
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>
@@ -125,13 +104,8 @@ function dept(){
       managing the website for the society, the Tech&Design department is arguably
        one of the most efficient departments under Debsoc.
       </p>
-<<<<<<< HEAD
-      <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
-      {/* <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p> */}
-=======
       <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 position lfft">
       <p style={{color: 'white', fontStyle: 'bold', fontSize: '18px', padding:'0'}}><a href="#">Learn More!</a></p>
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
   {/* <a class="button1 a" href="index.html">Register</a> */}
                        </div>
     </div>

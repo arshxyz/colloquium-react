@@ -2565,12 +2565,6 @@ select {
   }
 
   .event-title {
-<<<<<<< HEAD
-    font-size: 1.2rem;
-    font-size: 45px;
-    font-weight: 500;;
-=======
->>>>>>> 750575f461975f88a0ddc03d7df5f80242426d50
     width: 100%;
   }
   .event-desc {
