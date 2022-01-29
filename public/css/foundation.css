@@ -2624,6 +2624,10 @@ select {
     font-size: 1.2rem !important;
   }
 
+  .ssj{
+    font-size: 2rem;
+  }
+
   .align{
     margin-left: 5.5%;
   }

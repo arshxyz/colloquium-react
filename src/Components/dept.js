@@ -5,7 +5,7 @@ function dept(){
         <div>
             <section class="dept-section" id="wb3">
 
-<h1 class="events-title accent-text" style={{textAlign: 'center', }}>
+<h1 class="events-title accent-text ssj" style={{textAlign: 'center', }}>
   <span class="stroke-text-white" style={{color: 'white'}} >Our </span>Departments
 </h1>
 <div class="event-card-wrapper">
