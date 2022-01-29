@@ -1,10 +1,15 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Header from "./Header";
 import "./home/css/style.css"; 
 import Department from "./dept"
 
 
 function Home(){
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
+
     return (
       <div className="App">
         <Header/>
