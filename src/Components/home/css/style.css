@@ -245,7 +245,7 @@ h5,
 h6,
 figure {
     color: #000;
-    font-family: 'Biryani', sans-serif;
+    /* font-family: 'Biryani', sans-serif; */
     font-weight: 500;
     margin: 0 0 5px 0;
 }
@@ -771,6 +771,7 @@ h4{
 
 .user-frame h3 {
     line-height: 34px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .user-frame p {
@@ -779,10 +780,11 @@ h4{
 
 .user-frame span {
     font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .user-frame small {
-    color: #2A528A;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #fh5co-slider {

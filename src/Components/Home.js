@@ -111,7 +111,7 @@ function Home(){
             <div className="container">
                 <div className="row animate-box">
                     <div className="col-md-8 col-md-offset-2 text-'center' fh5co-heading">
-                        <h2 style={{textAlign: "center", marginTop:'40px'}}>From the Presidents' Desk</h2>
+                        <h2 style={{textAlign: "center", marginTop:'40px', }}>From the Presidents' Desk</h2>
                     </div>
                 </div>
                 <div className="row">
