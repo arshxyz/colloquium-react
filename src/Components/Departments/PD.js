@@ -102,7 +102,7 @@ export const PDDepartment = () => {
           <h2 className="dep-subheading">PD Team</h2>
           <Grid item container justifyContent={"center"}>
             {members.map((member) => (
-          <Grid item className="memberContainer" container xs={6} md={4} justifyContent={"center"}>
+          <Grid item className="memberContainer" container xs={12} md={4} justifyContent={"center"}>
                         <Grid item container justifyContent={"center"}>
                           <Grid item container xs={12} justifyContent={"center"}>
                         <Avatar src={member.img}
