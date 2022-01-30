@@ -706,7 +706,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/Shrirang.jpg" className="port"/>
+     <img alt="" src="images/team/shrirang.jpeg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Shrirang </h1>
