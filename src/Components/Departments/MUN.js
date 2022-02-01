@@ -79,7 +79,7 @@ export const MUNDepartment = () => {
       </header>
       <Grid container justifyContent={"center"} className="mainContent">
         <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Who we are</h2>
+          <h2 className="dep-subheading">Who are we?</h2>
         </Grid>
         <Grid item xs={10} md={6} container justifyContent={"center"}>
           <Fade bottom>
