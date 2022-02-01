@@ -38,7 +38,7 @@ export const MUNDepartment = () => {
       {name: "Parth Rohatgi", desig: "Member, Executive Committee", img: parth},
       {name: "Piyush Sharma", desig: "Member, Executive Committee", img: piyush},
       {name: "Prajeet Katari", desig: "Member, Executive Committee", img: prajeet},
-      {name: "Pranit Chaddha", desig: "Member, Executive Committee", img: pranit},
+      {name: "Pranit Chadda", desig: "Member, Executive Committee", img: pranit},
       {name: "Rachit Gupta", desig: "Member, Executive Committee", img: rachit},
       {name: "Rishabh Raj", desig: "Member, Executive Committee", img: rishabh},
       {name: "Shashank Mishra", desig: "Member, Executive Committee", img: shashank},

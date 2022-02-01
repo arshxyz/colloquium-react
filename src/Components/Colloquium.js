@@ -355,11 +355,9 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
     </div>
     <div className="event-info">
       <h2 className="event-title accent-text ggs">International Press</h2>
-      <p className="event-tagline spc"><b>The case study competition</b></p>
+      <p className="event-tagline spc"><b>Journalism, Photography & more</b></p>
       <p className="event-desc">
-      The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
-Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- <b style={{color: '#c3152c'}}>Colloquium.</b><br/>
-Despite all restrictions that prevail, this edition of <b style={{color: '#c3152c'}}>Colloquium</b> promises to be as great as it has been in the past, adding more to the legacy it already has. 
+      Unlike the delegates in an MUN who represent a particular country, members under the IP represent a national or international news agency instead. The International Press at an MUN is the perfect match for individuals who like objectivity and present a holistic viewpoint to scenarios and situations and wish to articulate that through their writing. It also serves as a space for budding caricaturists to show their creativity
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
   <a className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
@@ -371,7 +369,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
 
 <div className="event-info">
     <h2 className="event-title accent-text ggs">In Case You Can</h2>
-    <p className="event-tagline spc"><b>The case study competition</b></p>
+    <p className="event-tagline spc"><b>case study competition</b></p>
     <p className="event-desc">
     The Case Study event, ‘In Case You Can’ seeks to stimulate immense brainstorming and intensive business-minded thinking through situations, which pose themselves as potential challenges in the dynamic environment. The thrilling event culminates with the formulation of impromptu action-oriented solutions. To add to this, we will be partnering with an actual company that would be interested in having their name be present in the case.
     </p>
@@ -397,9 +395,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
       <h2 className="event-title accent-text ggs">Fandemic</h2>
       <p className="event-tagline spc"><b>Fan Art Based Graphic Design</b></p>
       <p className="event-desc">
-      The crème de la crème of the Delhi Debating Circuit is finally here, and is going to be better than ever.
-Greetings everyone! The Debating Society of NSUT is elated to present to you the 8th edition of our flagship literary and debating festival- <b style={{color: '#c3152c'}}>Colloquium.</b><br/>
-Despite all restrictions that prevail, this edition of <b style={{color: '#c3152c'}}>Colloquium</b> promises to be as great as it has been in the past, adding more to the legacy it already has. 
+      For those of you who have a quirky take on things and like to highlight that through visual means, DebSoc NSUT brings to you the most awaited graphic designing competition of the season - FANDEMIC Create a static graphic (posters/digital art/ fan art) based on your favorite fandom and get a chance to be featured on Debsoc NSUT's Instagram and Facebook pages.
       </p>
       <div className="col-sm-6 col-xs-6 col-md-6 col-lg-6 position">
   <a className="button1 a" href="#"style={{color: '#fff !important'}}>Coming Soon</a>
@@ -710,7 +706,7 @@ Despite all restrictions that prevail, this edition of <b style={{color: '#c3152
             
 
   <div className="item_owl">
-     <img alt="" src="images/team/Shrirang.jpg" className="port"/>
+     <img alt="" src="images/team/shrirang.jpeg" className="port"/>
 
 <div className="overlay">
     <h1 className="text">Shrirang </h1>
