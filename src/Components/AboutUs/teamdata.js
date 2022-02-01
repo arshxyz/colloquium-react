@@ -19,7 +19,7 @@ import shreya from './Photos/shreya.jpg';
 import pranav from './Photos/Pranav.jpg';
 import ishan from './Photos/Ishan .jpg';
 import jarul from './Photos/Jarul Jangid 1.jpg';
-import shrirang from './Photos/Shrirang.jpg';
+import shrirang from './Photos/shrirang.jpeg';
 import shubham from './Photos/Shubham.jpg';
 import vijeya from './Photos/Vijeya Patel.jpg';
 
