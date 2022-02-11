@@ -21,8 +21,8 @@
     font-size: 50px !important;
     margin: 0.6em !important;
     font-weight: 700 !important;
+    text-align: center;
     color: white !important;
-    font-family: 'Poppins' !important;
 }
 .dep-intro {
     font-family: 'Montserrat', sans-serif !important;
@@ -44,6 +44,7 @@
 .achievements-title{
     font-size: 45px !important;
     font-weight: 500 !important;
+    text-align: center;
     font-family: 'Montserrat', sans-serif !important;
 
 }

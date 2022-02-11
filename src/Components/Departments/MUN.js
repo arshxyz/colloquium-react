@@ -38,7 +38,7 @@ export const MUNDepartment = () => {
       {name: "Parth Rohatgi", desig: "Member, Executive Committee", img: parth},
       {name: "Piyush Sharma", desig: "Member, Executive Committee", img: piyush},
       {name: "Prajeet Katari", desig: "Member, Executive Committee", img: prajeet},
-      {name: "Pranit Chaddha", desig: "Member, Executive Committee", img: pranit},
+      {name: "Pranit Chadda", desig: "Member, Executive Committee", img: pranit},
       {name: "Rachit Gupta", desig: "Member, Executive Committee", img: rachit},
       {name: "Rishabh Raj", desig: "Member, Executive Committee", img: rishabh},
       {name: "Shashank Mishra", desig: "Member, Executive Committee", img: shashank},
@@ -79,7 +79,7 @@ export const MUNDepartment = () => {
       </header>
       <Grid container justifyContent={"center"} className="mainContent">
         <Grid item xs={12} container justifyContent={"center"}>
-          <h2 className="dep-subheading">Who we are</h2>
+          <h2 className="dep-subheading">Who are we?</h2>
         </Grid>
         <Grid item xs={10} md={6} container justifyContent={"center"}>
           <Fade bottom>
